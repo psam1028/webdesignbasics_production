@@ -1,3 +1,69 @@
 body{
-	background-color:pink;
+	padding:10px;
+
 }
+
+
+
+
+  section {
+  	padding:20px;
+       font-family: 'Playball', cursive;
+       font-size:48px;
+      }
+
+article{
+	font-size:12px;
+	padding:20px;
+	
+}
+
+h4{
+	font-style:bold;
+	padding: 20px;
+
+}
+    
+    .articlestyle_1{
+    	background-color:#bdbdbd;
+    	padding:20px;
+    }
+
+    p, ul{
+    	font-family: 'Bitter', serif;
+    }
+
+
+    .articlestyle_2{
+    	background-color:#bdbdbd;
+    	padding:20px;
+    	margin-top:100px;
+
+    }
+
+    .articlestyle_3{
+    	background-color:#bdbdbd;
+    	padding:20px;
+
+    }
+
+   .articlestyle_4{
+   	background-color:#bdbdbd;
+    	padding:20px;
+   }
+
+   .articlestyle_5{
+   	background-color:#bdbdbd;
+    	padding:20px;
+   }
+
+
+
+.head_content{
+	margin-top:-95px;
+	font-style:bold;
+	
+	font-size:48;
+}
+
+
