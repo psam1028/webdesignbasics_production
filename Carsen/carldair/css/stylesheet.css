@@ -1,0 +1,44 @@
+h1{
+	font-family: Georgia;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2{
+	font-family: Georgia;
+	text-align: center;
+}
+
+h3{
+	font-family: Georgia;
+	text-align: left;
+}
+
+h4{
+	font-family: Georgia;
+	text-align: center;
+}
+
+blockquote{
+	font-family: Courier;
+	font-size:12px;
+	background-color: #dddddb;
+
+}
+
+p{
+	font-family: Georgia;
+	font-size:14px;
+	text-align: left;
+}
+
+ul{
+	font-family: Georgia;
+	font-size:14px;
+}
+
+span{
+	font-family: Georgia;
+	font-color: red;
+}
+
