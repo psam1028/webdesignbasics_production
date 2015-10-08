@@ -1,5 +1,6 @@
 body{
-
+	margin-left: 200px;
+	margin-right: 200px;
 	background-color: #E4EDED;
 }
 
@@ -11,7 +12,6 @@ header{
 }
 
 h1{
-	
 	font-family: "Century Schoolbook";
 	font-weight: bold;
 	text-align: center;
@@ -22,7 +22,6 @@ h1{
 }
 
 h2{
-
 	font-family: "Didot";
 	font-weight: bold;
 	text-align: center;
@@ -41,13 +40,11 @@ h4{
 }
 
 p{
-
 	font-family: "Century Gothic";
 	font-size: 10pt;
 	color: #000000;
 }
 q{
-
 	font-family: "Century Gothic";
 	font-size: 10pt;
 	color: #000000;
@@ -61,7 +58,6 @@ ol{
 }
 
 li{
-
 	display: list-item;
 	font-family: Futura;
 	color: #000000;
@@ -70,8 +66,7 @@ li{
 }
 
 #bio{
-	font-family: ;
-	font-weight: bold;
+	font-family: "Century Gothic";
 	text-align: center;
 	padding-top: 35px;
 	padding-bottom: 25px;
@@ -80,10 +75,9 @@ li{
 
 #intro{
 	font-family: "Century Schoolbook";
-	font-weight: bold;
 	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 	color: #acd1b2;
 }
 
@@ -91,31 +85,31 @@ li{
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	color: #acd1b2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #000000;
 }
 
 #kinds{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #000000;
+}
 
+#footer{
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 25px;
 	padding-bottom: 25px;
-	color: #acd1b2;
-}
+	color: #000000;
 
-#footer{
-
-	clear: both;
-	position: relative;
-	bottom: 20px;
-	height: 75px;
 }
 
 img{
-
 	height: 100px;
 	width: 100px;
 	position: relative
