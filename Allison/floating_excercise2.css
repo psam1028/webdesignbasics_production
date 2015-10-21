@@ -1,0 +1,23 @@
+#left {
+	background-color:red;
+	width: 100px;
+	height: 300px;
+	float: left;
+	margin-right: 10px;
+}
+#center{
+	background-color: red;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 300px;
+	height: 100px;
+	float: left;
+}
+#center1{
+	background-color: red;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 140px;
+	height: 100px;
+	clear: left;
+}
