@@ -1,0 +1,16 @@
+body {
+	width:800px;
+}
+div {
+	width: 100px;
+	height: 100px;
+	color: green;
+	background-color: green;
+	float: left;
+	margin-right: 100px;
+	margin-top
+}
+.secondrow {
+	margin-left: 100px;
+	margin-right: 0px;
+}

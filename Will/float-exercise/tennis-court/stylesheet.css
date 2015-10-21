@@ -1,0 +1,76 @@
+body {
+	background-color: orange;
+	
+}
+.louter {
+	height: 300px;
+	width: 100px;
+	background-color: #96E8E8;
+	float: left;
+	margin-left: 5px;
+}
+.llouter {
+	height: 300px;
+	width: 100px;
+	background-color: #96E8E8;
+	clear: both;
+	position: absolute;
+	margin-left: 5px;
+}
+#headerup {
+	height: 100px;
+	width: 400px;
+	background-color: #96E8E8;
+	display: inline-block;
+	position: absolute;
+	margin-left: 4px;
+}
+#bodyleft {
+	height: 196px;
+	width: 200px;
+	background-color: #96E8E8;
+	clear: both;
+	display: inline-block;
+	margin-left: 4px;
+}
+#bodyright {
+	height: 196px;
+	width: 196px;
+	background-color: #96E8E8;
+	clear: both;
+	display: inline-block;
+}
+#router {
+	height: 300px;
+	width: 100px;
+	background-color: #96E8E8;
+	display: inline-block;
+}
+#lowerbodyleft {
+	height: 196px;
+	width: 200px;
+	background-color: #96E8E8;
+	position: relative;
+	margin-left: 104px;
+}
+#lowerbodyright {
+	height: 196px;
+	width: 196px;
+	background-color: #96E8E8;
+	position: relative;
+	margin-left: 308px;
+	margin-top: -196px;
+	
+}
+#headerdown {
+	height: 100px;
+	width: 400px;
+	background-color: #96E8E8;
+	margin: 4px 4px 4px 104px;
+}
+#lrouter {
+	height: 300px;
+	width: 100px;
+	background-color: #96E8E8;
+	margin: -304px 0px 0px 508px;
+}
