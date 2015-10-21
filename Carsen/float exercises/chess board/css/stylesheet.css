@@ -1,0 +1,66 @@
+#boundingbox{
+	width: 800px;
+	height: 800px;
+	border: 2px solid #000;
+}
+
+.row {
+	width:800px;
+	height:100px;
+}
+
+/*
+
+#row1{
+	width:800px;
+	height:100px;
+}
+
+#row2{
+	width:800px;
+	height:100px;
+}
+
+#row3{
+	width:800px;
+	height:100px;
+}
+
+#row4{
+	width:800px;
+	height:100px;
+}
+
+#row5{
+	width:800px;
+	height:100px;
+}
+
+#row6{
+	width:800px;
+	height:100px;
+}
+
+#row7{
+	width:800px;
+	height:100px;
+}
+
+#row8{
+	width:800px;
+	height:100px;
+}*/
+
+#teal{
+	width: 100px;
+	height: 100px;
+	background-color: #008080;
+	float: left;
+}
+
+#white{
+	width: 100px;
+	height: 100px;
+	background-color: #fff;
+	float: left;
+}
