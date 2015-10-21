@@ -1,0 +1,9 @@
+about/advisory/viseprsident/hanzel.html
+../../../css/main.css
+../img/sprite.png
+../index.html
+../about/advisory/chair/goldilocks.html
+index.html
+/js/vendor/jquery-2.1.1.min.js
+../../css/main.css
+../js/script.js
