@@ -1,0 +1,28 @@
+body {
+	background-color: #DBE6CA;
+}
+div {
+	background-color: orange;
+}
+#box1 {
+	height: 20px;
+	width: 40px;
+	position: relative;
+	left: 50px;
+	top: 4px;
+}
+#box2 {
+	height: 60px;
+	width: 100px;
+	opacity: .4;
+	color: green;
+	margin-top: 5px
+}
+#box3 {
+	height: 60px;
+	width: 60px;
+	position: relative;
+	opacity:.7;
+	bottom: 5px;
+}
+

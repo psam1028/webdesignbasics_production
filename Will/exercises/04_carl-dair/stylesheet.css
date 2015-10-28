@@ -1,0 +1,64 @@
+body {
+	background-color: #CCFFFF;
+}
+h1 {
+	text-align: center;
+	font-weight: bolder;
+}
+h2 {
+	text-align: center;
+}
+#intro {
+	background-color: #FAE7BE;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding: 15px;
+}
+.orange {
+	margin: auto;
+	padding: 5px;
+	background-color: #F09131;
+	color: white;
+}
+div.orange p {
+	font-style: italic;
+}
+#contra {
+	padding: 5px;
+}
+
+#texture {
+	line-height: 1.5em;
+	margin-right: 40px;
+	margin-left: 40px; 
+}
+.size {
+	font-size: 2em;
+}
+.class {
+	opacity: .2em;
+}
+#sans {
+	font-family: sans-serif;
+	font-size: 1.5em;
+}
+#strong {
+	font-weight: bold;
+}
+#modern {
+	font-family: monospace;
+	font-size: 1.5em;
+}
+#vertical {
+	margin-right: 25em;
+	margin-left: 30em;
+}
+#stretch {
+	text-transform: capitalize;
+	background-color: yellow;
+	opacity: .5em;
+}
+#author {
+	text-align: center;
+	font-style: italic;
+}
