@@ -9,14 +9,14 @@ h1 {
 	font-family: Gravitas One;
 	margin-bottom: 40px;
 	color: #FDDF73;
-	margin-left: 80px;
+	margin-left: 6.25%;
 }
 
 nav a {
 	float: right;
 	display: inline-block;
-	margin-right: 100px;
-	margin-left:60px;
+	margin-right: 5.965%;
+	margin-left: 5.965%;
 	font-family: Avenir;
 	margin-top: 33px;
 }
@@ -43,18 +43,18 @@ a:active {
 
 
 #yellowline {
-	width: 95px;
+	width: 6.75%;
 	height: 5px;
 	background-color: #FDDF73;
 	position: absolute;
 	top: 65px;
-	left: 765px;
+	left: 52.4%;
 }
 
 
 #interviewpic {
 	box-sizing: border-box;
-	width: 800px;
+	width: 55%;
 	z-index: 1;
 	position: absolute;
 	top: 125px;
@@ -110,7 +110,7 @@ h2 {
 #reading {
 	min-width: 45rem;
 	max-width: 85rem;
-	width: 46rem;
+	width: 45rem;
 	margin: auto;
 }
 
@@ -229,7 +229,7 @@ h3 {
 }
 
 footer {
-	height: 490px;
+	height: 460px;
 	background-color: #FDDF73;
 	text-align: center;
 }
