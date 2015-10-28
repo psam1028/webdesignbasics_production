@@ -1,0 +1,32 @@
+#chessboard {
+	width: 800px;
+	height: 800px;
+	margin-top: -14px; 
+	margin-left: -14px;
+}
+
+div {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	margin-right: 100px;
+}
+
+table{
+	border-spacing: 0px;
+}
+
+tr.rowA {
+ 	float:left;
+}
+
+tr.rowB {
+	float: right;
+ 	margin-left: 100px;
+}
+
+/*
+#chess_board tr:nth-child(odd) td:nth-child(even),
+#chess_board tr:nth-child(even) td:nth-child(odd) {
+}
+/*

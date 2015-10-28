@@ -1,0 +1,55 @@
+header{
+	
+}
+
+body{
+
+	font-family: Georgia, Times, serif;
+}
+
+span{
+	font-family: Avenir, Nunito, sans-serif;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+footer{
+
+}
+
+div{
+	font-family: Avenir, Nunito, sans-serif;
+	font-size: 12px;
+
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 300px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+.column{
+position: relative;
+}
+
+.column1{
+	width: 33%;
+	display: block;
+	float: left;
+	margin-right: 20px;
+}
+.column2{
+	width: 33%;
+	height: 1000px;
+	display: inline-block;
+	margin-right: 20px;
+}
+.column3{
+	width: 33%;
+	float: right;
+}

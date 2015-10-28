@@ -1,0 +1,9 @@
+about/advisory/vicepresident/hanzel.html
+
+../../../css/main.css
+
+../img/sprite.png
+
+index.html
+
+../about/advisory/chair/goldilocks.html

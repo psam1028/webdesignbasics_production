@@ -1,0 +1,117 @@
+body{
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: #E4EDED;
+}
+
+header{
+	height: 45px;
+	position: center;
+	background-color: #FFE3E3;
+	
+}
+
+h1{
+	font-family: "Century Schoolbook";
+	font-weight: bold;
+	text-align: center;
+	padding-top: .3px;
+	padding-bottom: 25px;
+	color: #000000;
+	opacity:1;
+}
+
+h2{
+	font-family: "Didot";
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #000000;
+}
+
+h4{
+	font-family: "Courier New";
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 25px;
+	color: #000000;
+}
+
+p{
+	font-family: "Century Gothic";
+	font-size: 10pt;
+	color: #000000;
+}
+q{
+	font-family: "Century Gothic";
+	font-size: 10pt;
+	color: #000000;
+}
+
+
+ol{
+	left-margin: 300px;
+	right-margin: 300px;
+
+}
+
+li{
+	display: list-item;
+	font-family: Futura;
+	color: #000000;
+	padding: 5px;
+	background-color: #FFE3E3
+}
+
+#bio{
+	font-family: "Century Gothic";
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 25px;
+	color: #E6095A;
+}
+
+#intro{
+	font-family: "Century Schoolbook";
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #acd1b2;
+}
+
+#bio-intro-transition{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #000000;
+}
+
+#kinds{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #000000;
+}
+
+#footer{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #000000;
+
+}
+
+img{
+	height: 100px;
+	width: 100px;
+	position: relative
+	box-shadow: rgba(0,0,0,0.2) 5px 5px;
+}
