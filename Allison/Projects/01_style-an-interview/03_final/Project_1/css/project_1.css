@@ -1,0 +1,138 @@
+		#menu{
+				height: 53px;
+				width: 1272px;
+				background-color: black;
+				position: fixed;
+				color: white;
+				font-size: 50px;
+				font-family: Impact;
+				z-index: 300;
+				margin-top: -130px;
+				}
+
+		body{
+				background-image: url("../img/project_1_background.jpg");
+			  	background-size: contain;
+				background-repeat: no-repeat;
+		  		}
+
+		#Logo > img{
+				width: 50px;
+				height: 50px;
+				display: inline;
+			}
+
+		#JONNAME{
+			color: white;
+        	background-color: black;
+			font-family: "Source Sans Pro";
+			text-align: center;
+			width: 1272px;
+			font-size: 40px;
+			margin-top: 35px;
+			font-size: 20px;
+			}
+
+		#menu > ul> li{
+			display: inline;
+			color: white;
+			font-size: 28px;
+			margin-top: 100px;
+			margin-left: 10px;
+			background-color: black;
+			text-decoration: none;
+		}
+
+		#menu > ul> li > a{
+			text-decoration: none;
+			padding-left: 5px;
+			padding-right: 5px;
+		}
+
+		#Jon{
+			margin: 25px auto;
+			padding-left: 400px;
+		}
+
+		#Jon > img{
+			width: 450px;
+			height: 300px;
+		}
+
+		#aninterview{
+			font-family: "Source Sans Pro";
+			margin-top:80px;
+			text-align: center;
+			font-size: 28px;
+			}
+
+		/* unvisited link */
+		a:link {
+		    color: white;
+		}
+
+		/* visited link */
+		a:visited {
+		    color: white;
+		}
+
+		/* mouse over link */
+		a:hover {
+		    color: #64c8ce;
+		}
+
+		/* selected link */
+		a:active {
+		    color: #f9f210;
+		}
+
+		.sm{
+			margin: auto;			
+			margin-top: -40px;
+			float: right;
+		}
+
+		.sm > a > img{
+		    height:40px;
+		    width: 40px;
+		    display: inline;
+		}
+
+		#content{
+			text-align: left;
+			font-family: "Source Sans Pro";
+			margin: auto;
+			width: 660px;
+			background-color: rgba(255,255,255,0.60);
+			padding-left: 25px;
+			padding-right: 25px;
+			padding-top: 10px;
+			margin-top: -27px;
+			padding-bottom: 3px;
+			font-size: 14px;
+		 }
+
+		 ul{
+			background-color: black;
+		}
+
+		#logo{
+			width: 50px;
+			height: 50px;
+			display: inline;
+			}
+
+		#web{
+			width: 120px;
+			height: 40px;
+		}
+
+		.question{
+			font-size: 15px;
+			font-weight: 800;
+		}
+
+		.name{
+			font-size: 17px;
+			font-weight: 800;
+		}
