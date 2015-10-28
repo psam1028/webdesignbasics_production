@@ -1,0 +1,301 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+h1 {
+	float: left;
+	font-size: 225%;
+	font-family: Gravitas One;
+	margin-bottom: 40px;
+	color: #FDDF73;
+	margin-left: 80px;
+}
+
+nav a {
+	float: right;
+	display: inline-block;
+	margin-right: 100px;
+	margin-left:60px;
+	font-family: Avenir;
+	margin-top: 33px;
+}
+
+a:link {
+	color: black;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	font-style: italic;
+	text-decoration: none;
+}
+
+a:active {
+	color: #FDDF73;
+	text-decoration: none;
+}
+
+
+#yellowline {
+	width: 95px;
+	height: 5px;
+	background-color: #FDDF73;
+	position: absolute;
+	top: 65px;
+	left: 765px;
+}
+
+
+#interviewpic {
+	box-sizing: border-box;
+	width: 800px;
+	z-index: 1;
+	position: absolute;
+	top: 125px;
+}
+
+article {
+	width: 1000px;
+	margin: auto;
+}
+
+h2 {
+	z-index: 5;
+	font-size: 100px;
+	color: black;
+	font-family: Gravitas One;
+	position: relative;
+	opacity: 0.7;
+	display: inline-block;
+}
+
+#david {
+	top: 90px;
+	left: 10px;
+}
+
+#chang {
+	left: 420px;
+	bottom: 60px;
+}
+
+#linedavid {
+	border: 4px solid black;
+	width: 300px;
+	opacity: 0.7;
+	display: inline-block;
+	z-index: 5;
+	position: relative;
+	bottom: 202px;
+	left: 37px;
+}
+
+#linechang {
+	border: 4px solid black;
+	width: 200px;
+	opacity: 0.7;
+	position: relative;
+	display: inline-block;
+	z-index: 5;
+	bottom: 186px;
+	left: 255px;
+}
+
+#reading {
+	min-width: 45rem;
+	max-width: 85rem;
+	width: 46rem;
+	margin: auto;
+}
+
+
+#headline {
+	font-family: Avenir;
+	font-size: 21px;
+	margin-bottom: 50px;
+	position: relative;
+	margin-top: 0px;
+	left: 3%;
+}
+
+.firstcharacter {
+	float: left; 
+	color: black; 
+	font-size: 70px; 
+	line-height: 60px; 
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+}
+
+.summary {
+	font-family: Slabo 27px, serif;
+	line-height: 23px;
+	position: relative;
+	left: 3%;
+	}
+
+#yellowline2 {
+	width: 400px;
+	height: 7px;
+	background-color: #FDDF73;
+	margin-bottom: 60px;
+	margin-top: 60px;
+	position: relative;
+	right: 10px;
+}
+
+.gravitasone {
+	font-family: Gravitas One;
+	font-size: 18px;
+	position: relative;
+	right: 2%;
+}
+
+.space {
+	bottom: 20px;
+}
+
+.avenir {
+	font-family: Avenir;
+	position: relative;
+	left: 62px;
+	bottom: 40px;
+	}
+
+.slabo {
+	font-family: Slabo 27px, serif;
+	bottom: 60px;
+	line-height: 23px;
+	position: relative;
+	left: 62px;
+	margin-bottom: 20px;
+	}
+
+#yellowline3 {
+	margin-left: 620px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	border: 3px dotted #FDDF73;
+	width: 150px;
+}
+
+section {
+	width: 1000px;
+	margin: auto;
+	position: relative;
+	bottom: 50px;
+}
+
+h3 {
+	font-family: Avenir;
+	font-size: 24px;
+}
+
+.relatedposts {
+	box-sizing: border-box;
+	width: 300px;
+	position: relative;
+	float: left;
+	margin-left: 150px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.subtitles1 {
+	font-family: Avenir;
+	font-size: 14px;
+	clear: both;
+	margin-left: 150px;
+}
+
+.subtitles2 {
+	font-family: Avenir;
+	font-size: 14px;
+}
+
+#subtitles2group {
+	box-sizing: border-box;
+	position: relative;
+	float: right;
+	right: 214px;
+	top: -67px;
+}
+
+footer {
+	height: 490px;
+	background-color: #FDDF73;
+	text-align: center;
+}
+
+.nav {
+	font-family: Avenir;
+	font-size: 18px;
+	display: inline-block;
+	margin-left: 60px;
+}
+
+#follow {
+	font-size: 18px;
+	font-family: Avenir;
+	position: relative;
+	top: 20px;
+	left: 180px;
+}
+
+.followus {
+	box-sizing: border-box;
+	width: 70px;
+	height: 70px;
+	margin-right: 40px;
+	position: relative;
+}
+
+#whatever {
+	position: relative;
+	left: 140px;
+	top: 10px;
+}
+
+#dontknow {
+	position: relative;
+	left: 10px;
+	top: 10px;
+}
+
+.line {
+	width: 500px;
+	border: 1px solid black;
+	margin-left: 450px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.basic {
+	font-family: Avenir;
+	font-size: 16px;
+	display: inline-block;
+	margin-right: 40px;
+}
+
+.info {
+	margin-bottom: 10px;
+}
+
+#law {
+	max-width: 400px;
+	margin-left: 515px;
+}
+
+#logo {
+	color: black;
+	float: right;
+	margin-right: 20px;
+	font-size: 28px;
+}
