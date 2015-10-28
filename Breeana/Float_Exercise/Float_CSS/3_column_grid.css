@@ -1,0 +1,35 @@
+
+	
+	.column {
+		height: 500px;
+		width: 300px;
+		background-color: blue;
+		float: left;
+		border: 3px solid white;
+	}
+
+	#header {
+		height: 90px;
+		width: 912px;
+		background-color: blue;
+		border: 3px solid white;
+	}
+
+	#second_header {
+		height: 40px;
+		width: 912px;
+		background-color: blue;
+		border: 3px solid white;
+	}
+
+
+	#footer {
+		height: 60px;
+		width: 912px;
+		background-color: blue;
+		clear: both;
+		border: 3px solid white;
+	}
+
+
+

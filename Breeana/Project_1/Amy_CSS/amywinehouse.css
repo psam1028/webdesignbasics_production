@@ -1,0 +1,51 @@
+	
+
+	header{
+		position: fixed;
+		left: 550px;
+		font-size: 40px;
+	}
+
+	img {
+		height: 300px;
+		width: 300px;
+		border: solid 3px;
+		margin: 40px;
+		position: fixed;
+	}
+
+	#graph {
+		height: 120px;
+		width: 800px;
+		border: 5px;
+		background-color: red;
+		border: 2px solid black;
+		border-radius: 5px;
+		margin-bottom: 10px;
+		font-family: Arial;
+		position: fixed;
+		text-align: center;
+		top: 160px;
+		left: 450px;
+
+	}
+
+	.question {
+		border: solid 3px;
+		height: 50px;
+		background-color: #CC0000;
+		top: 500px;
+		float: right;
+		clear: both;
+	}
+
+	.answer {
+		border: solid 3px;
+		float: right;
+		clear: right;
+		background-color: purple;
+		height: 50px;
+		width: 150px;
+		margin: 20px;
+		text-align: center;
+	}

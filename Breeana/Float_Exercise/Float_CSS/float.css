@@ -1,0 +1,27 @@
+	
+div {
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+}
+
+
+.purple {
+	background-color: purple;
+	float: left;
+}
+
+.white {
+ 	background-color: white;
+ 	float: left;
+
+}
+
+
+#God {
+	height: 800px;
+	width: 800px;
+	background-color: white;
+}
+
+

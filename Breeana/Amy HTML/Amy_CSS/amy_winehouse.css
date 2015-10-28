@@ -1,0 +1,200 @@
+	
+
+	p span {
+		font-family: Impact, Arial, sans-serif;
+		color: #EB7DC6;
+		text-align: center;
+	}
+
+	#biline {
+		width: 170px;
+		background-color: white;
+		border-radius: 25px;
+		border: 3px solid black;
+		float: right;
+		position: fixed;
+	}
+
+	#biline p {
+		font-family: Arial, sans-serif;
+		text-align: center;
+		font-size: 15px;
+		line-height: 17px;
+	}
+
+	.r {
+		font-family: Impact, Arial, sans-serif;
+		color: black;
+		text-align: center;
+		font-size: 20px;
+	}
+
+
+	#amy_title {
+		height: 140px;
+		width: 850px;
+		margin: auto;
+	}
+
+	#image_holder {
+		height: 185px;
+		width: 800px;
+		margin: auto;
+	}
+
+	#amy_title p {
+		font-size: 115px;
+		font-family: Impact, Arial, sans-serif;
+		color: #EB7DC6;
+		margin: auto;
+		text-align: center;
+	}
+
+
+	img {
+		height: 185px;
+		width: 800px;
+		float: left;
+	}
+
+
+	#second_header {
+		height: 138px;
+		width: 850px;
+		background-color: white;
+		clear: left;
+		margin: auto;
+
+	}
+
+	#second_header p {
+		text-align: center;
+		padding: 5px 0px 0px 0px;
+		font-family: sans-serif;
+		font-weight: bold;
+		line-height: 19px;
+		font-size: 19px;
+
+	}
+
+	#amy_personal {
+		width: 250px;
+		background-color: white;
+		margin: 10px auto;
+		clear: both;
+	}
+
+	#amy_personal p {
+		text-align: center;
+		font-family: Impact, Arial, sans-serif;
+		color: black;
+		font-size: 30px;
+	}
+
+	.section {
+		height: 100px;
+		width: 270px;
+		background-color: white;
+		margin: 30px auto;
+	}
+
+	.section p span {
+		font-size: 70px;
+	}
+
+	#section_deep {
+		height: 100px;
+		width: 450px;
+		background-color: white;
+		margin: 30px auto;
+	}
+
+	#section_deep p span {
+		font-size: 70px;
+	}
+
+	#section_misc {
+		height: 100px;
+		width: 170px;
+		background-color: white;
+		margin: 30px auto;
+	}
+
+	#section_misc p span{
+		font-size: 70px;
+	}
+
+	.row {
+		height: 160px;
+		width: 900px;
+		background-color: white;
+		margin: 20px auto;
+	}
+
+	#short_row {
+		height: 200px;
+		width: 600px;
+		background-color: white;
+		margin: 20px auto;
+	}
+
+	.question {
+ 	 	width: 260px;
+		float: left;
+		border: 3px solid black;
+		border-radius: 25px;  
+		margin: 10px;
+		font-size: 16px;
+		font-family: Arial, sans-serif;
+		padding: 5px;
+		float: left;
+		text-align: center;
+		line-height: 15px;
+	}
+
+	#footer {
+		height: 300px;
+		width: 1150px;
+		background-color: white;
+		clear: both;
+		margin: 5px auto;
+	}
+
+	#amy_1 img{
+		height: 200px;
+		width: 275px;
+		float: left;
+		margin: 5px;
+		border-radius: 25px;
+		border: 3px solid black;
+	}
+
+	#amy_2 img {
+		height: 200px;
+		width: 200px;
+		margin: 5px;
+		float: left;
+		border-radius: 25px;
+		border: 3px solid black;
+	}
+
+	#amy_3 img {
+		height: 200px;
+		width: 250px;
+		margin: 5px;
+		float: left;
+		border-radius: 25px;
+		border: 3px solid black;
+	}
+
+	#amy_4 img {
+		height: 200px;
+		width: 305px;
+		float:left;
+		margin: 5px;
+		border-radius: 25px;
+		border: 3px solid black;
+	}
+
+	
+
