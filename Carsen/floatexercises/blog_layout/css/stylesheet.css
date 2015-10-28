@@ -1,0 +1,51 @@
+#header{
+	width: 994px;
+	height: 144px;
+	float: left;
+	background-color: #c1095c;
+	margin: 3px 3px 100px 3px;
+}
+
+#body{
+	width: 900px;
+	overflow: auto;
+	float: left;
+}
+
+#widecolumn{
+	width: 700px;
+	height: 400px;
+}
+
+#narrowcolumn{
+	width: 200px;
+	height: 400px;
+}
+
+.post{
+	width: 706px;
+	height: 406px;
+	float: left;
+}
+
+.postbody{
+	width: 694px;
+	height: 400px;
+	margin: 3px;
+	background-color: #c1095c;
+}
+
+.postfooter{
+	width:694px;
+	height: 50px;
+	margin: 3px;
+	background-color: #c1095c;
+}
+
+.columninfo{
+	width: 194px;
+	height: 144px;
+	margin: 3px;
+	background-color: #c1095c;
+	border: 1px solid black;
+}

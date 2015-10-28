@@ -1,0 +1,50 @@
+.outer{
+	height: 304px;
+	width: 100px;
+	background-color: #c6ecfc;
+	margin: 3px;
+	float: left;
+	display: inline-block;
+}
+
+.top{
+	height: 100px;
+	width: 403px;
+	background-color: #c6ecfc;
+	margin: 3px;
+	float: left;
+	display: inline-block;
+}
+
+.box{
+	height: 200px;
+	width: 200px;
+	background-color: #c6ecfc;
+	margin: 3px;
+	float: left;
+	display: inline-block;
+}
+
+.tophalf{
+	height: 312px;
+	width: 622px;
+	float: left;
+}
+
+.centercolumn{
+	height: 312px;
+	width: 410px;
+	float: left;
+}
+
+.topcentercourt{
+	height: 207px;
+	width: 413px;
+	float: left;
+}
+
+.bounding{
+	height: 624px;
+	width: 622px;
+	float: left;
+}

@@ -1,0 +1,39 @@
+#header{
+	width: 900px;
+	height: 300px;
+	margin: auto;
+}
+
+#body{
+	width: 900px;
+	height: 700px;
+	margin: auto;
+}
+
+#footer{
+	width: 900px;
+	height: 200px;
+	margin: auto;
+}
+
+.bigbar{
+	width: 894px;
+	height: 194px;
+	margin: 3px;
+	background-color: #03718e;
+}
+
+#smallbar{
+	width: 894px;
+	height: 94px;
+	margin: 3px;
+	background-color: #03718e;
+}
+
+.column{
+	width: 294px;
+	height: 694px;
+	margin: 3px;
+	background-color: #03718e;
+	float: left;
+}
