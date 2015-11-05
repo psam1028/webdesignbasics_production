@@ -167,11 +167,11 @@
 	}
 
 	#footer {
-		height: 200px;
-		width: 830px;
+		height: 260px;
+		width: 835px;
 		background-color: white;
 		clear: both;
-		margin: 5px auto;
+		margin: 0px 0px 0px 15px auto;
 	}
 
 	#amy_1 img{
