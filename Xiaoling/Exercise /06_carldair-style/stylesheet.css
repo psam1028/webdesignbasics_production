@@ -1,0 +1,28 @@
+ body{ 
+ 			background-color: #d0e2ed;
+ 			width: 800px;
+			height: 300px;
+			padding: 10px;
+			margin: 10px auto 10px auto;
+		}
+
+  p {
+            color:#484848;
+            font-family:PT Sans,sans-serif;      
+        }
+
+        h3{
+            font-family:Pacifico,cursive;
+            color:#267d8f;
+            text-align: center
+        }
+        h4{
+            color:#3eb8bf;
+            text-align: center  
+        }
+     
+        
+        ol{
+            color:#267d8f;
+            font-style:italic;
+        }
