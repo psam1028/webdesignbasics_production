@@ -171,7 +171,8 @@
 		width: 835px;
 		background-color: white;
 		clear: both;
-		margin: 0px 0px 0px 15px auto;
+		margin: 5px auto;
+		padding: 0px 0px 10px 0px;
 	}
 
 	#amy_1 img{
