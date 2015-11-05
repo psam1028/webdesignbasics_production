@@ -1,5 +1,0 @@
-
-body {
-    background-image: url("http://media.giphy.com/media/7dmcj2BlNEIk8/giphy.gif");
-    background-repeat: repeat-y;
-}
