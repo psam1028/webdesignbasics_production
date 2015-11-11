@@ -1,0 +1,47 @@
+.columngrid {
+	border: 1px;
+	background-color: red;
+	width: 900px;
+	height: 1000px;
+	padding: auto;
+}
+
+.one {
+background-color: red;
+float: left;
+width: 900px;
+height: 3px;
+}
+
+.two {
+  float:left; 
+  background-color: red;
+  width: 900px;
+  height: 10px;
+}
+.three-a {
+  float:left; 
+  background-color: red;
+  width: 30px;
+  height: 50px;
+}
+.three-b {
+  float:center; 
+  background-color: red;
+  width: 30px;
+  height: 50px;
+}
+.three-c {
+  float:right; 
+  background-color: red;
+  width: 30px;
+  height: 50px;
+}
+.four {
+  float:left; 
+  background-color: red;
+  width: 900px;
+  height: 7px;
+}
+
+

@@ -1,0 +1,55 @@
+.columngrid {
+	border: 1px;
+	width: 900px;
+	height: 100%;
+	padding: auto;
+	margin-left: 240px;
+	margin-right: 240px;
+}
+
+.one {
+float:left; 
+margin: 1px;
+background-color: blue;
+width: 900px;
+height: 120px;
+}
+
+.two {
+	float: left;
+  background-color: blue;
+  width: 900px;
+  height: 40px;
+  margin: 1px;
+}
+.three-a {
+  float: left;
+  margin-left: 5px;
+  background-color: blue;
+  width: 295px;
+  height: 500px;
+  margin: 0px;
+}
+.three-b {
+    float:left; 
+  background-color: blue;
+  width: 295px;
+  height: 500px;
+  margin: 1px;
+}
+.three-c { 
+    float:right; 
+  background-color: blue;
+  width: 295px;
+  height: 500px;
+  margin: 1px;
+}
+.four {
+  float:left; 
+  background-color: blue;
+  width: 900px;
+  height: 120px;
+  margin: 1px;
+}
+
+
