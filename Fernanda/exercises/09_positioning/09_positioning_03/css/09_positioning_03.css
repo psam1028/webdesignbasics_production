@@ -1,0 +1,104 @@
+.box {
+	width: 2%;
+	height: 150px;
+	background-color: red;
+	margin-right: 1%;
+	display: inline-block;
+}
+
+#container {
+	max-height: 1000px;
+	margin-top: 200px;
+	padding-left: 20%;
+}
+
+#two {
+	position: relative;
+	top: 10px;
+}
+
+#three {
+	position: relative;
+	bottom: 20px;
+}
+
+#four {
+	position: relative;
+	top: 40px;
+}
+
+#five {
+	position: relative;
+}
+
+#six {
+	position: relative;
+	bottom: 30px;
+}
+
+#seven {
+	position: relative;
+	bottom: 50px;
+}
+
+#eight {
+	position: relative;
+	bottom: 10px;
+}
+
+#nine {
+	position: relative;
+}
+
+#ten {
+	position: relative;
+	top: 50px;
+}
+
+#eleven {
+	position: relative;
+	top: 30px;
+}
+
+#twelve {
+	position: relative;
+	bottom: 5px ;
+}
+
+#thirteen {
+	position: relative;
+	bottom: 50px;
+}
+
+#fourteen {
+	position: relative;
+	top: 50px;
+}
+
+#fifthteen {
+	position: relative;
+}
+
+#sixteen {
+	position: relative;
+	top:20px;
+}
+
+#seventeen {
+	position: relative;
+	top:40px;
+}
+
+#eighteen {
+	position: relative;
+}
+
+#nineteen {
+	position: relative;
+	bottom:20px;
+}
+
+#twenty {
+	position: relative;
+}
+

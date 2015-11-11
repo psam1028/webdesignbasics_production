@@ -1,0 +1,65 @@
+
+#one {
+	width: 18%;
+	height: 30px;
+	background-color: red;
+	position: fixed;
+	top:0;
+}
+
+#two {
+	width: 10%;
+	height: 200px;
+	background-color: blue;
+	position: fixed;
+	top: 200px;
+}
+
+#three {
+	width: 50%;
+	height: 100px;
+	background-color: green;
+	position: fixed;
+	left: 60%;
+	z-index: 4;
+}
+
+#four {
+	width: 40%;
+	height: 150px;
+	background-color: yellow;
+	margin-top: 200px;
+	position: fixed;
+	top: 100px;
+	left:25%;
+	z-index: 1;
+}
+
+#five {
+	width: 5%;
+	height: 70px;
+	background-color: pink;
+	position: fixed;
+	top:0;
+	left:90%;
+}
+
+#six {
+	width: 15%;
+	height: 90px;
+	background-color: orange;
+	margin-top: 100px;
+	position: fixed;
+	top:500px;
+	left:0;
+}
+
+.text {
+	max-width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	line-height: 45px;
+	position: relative;
+	z-index: 3;
+}
