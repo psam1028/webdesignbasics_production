@@ -1,0 +1,73 @@
+.topsinglessideline {
+	height: 300px;
+	width: 100px;
+	background-color: red;
+	float: left;
+	margin-left: 5px;
+}
+.bottomsinglessideline {
+	height: 300px;
+	width: 100px;
+	background-color: red;
+	clear: both;
+	position: absolute;
+	margin-left: 5px;
+}
+#topserviceline {
+	height: 100px;
+	width: 400px;
+	background-color: red;
+	display: inline-block;
+	position: absolute;
+	margin-left: 4px;
+}
+#topleftservicecourt {
+	height: 196px;
+	width: 200px;
+	background-color: red;
+	clear: both;
+	display: inline-block;
+	margin-left: 4px;
+}
+#toprightservicecourt {
+	height: 196px;
+	width: 196px;
+	background-color: red;
+	clear: both;
+	display: inline-block;
+}
+#topdoublesideline {
+	height: 300px;
+	width: 100px;
+	background-color: red;
+	display: inline-block;
+}
+#bottomtopserviceline {
+	height: 196px;
+	width: 200px;
+	background-color: red;
+	position: relative;
+	margin-left: 104px;
+}
+#bottomleftservicecourt {
+	height: 196px;
+	width: 196px;
+	background-color: red;
+	position: relative;
+	margin-left: 308px;
+	margin-top: -196px;
+	
+}
+#bottomrightservicecourt {
+	height: 100px;
+	width: 400px;
+	background-color: red;
+	margin: 4px 4px 4px 104px;
+}
+#bottomdoublesideline{
+	height: 300px;
+	width: 100px;
+	background-color: red;
+	margin: -304px 0px 0px 508px;
+}
+
