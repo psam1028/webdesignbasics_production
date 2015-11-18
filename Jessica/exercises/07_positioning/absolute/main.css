@@ -1,0 +1,79 @@
+body{
+	position: absolute;
+}
+
+p{
+	font-family: Arial, sans-serif;
+}
+
+#is{
+	width:800px;
+	height:100vh;
+	background-color: cyan;
+}
+
+#this{
+	width:775px;
+	height:95vh;
+	background-color: coral;
+}
+
+#really{
+	width:760px;
+	height:90vh;
+	background-color: blanchedalmond;
+}
+
+#that{
+	width:750px;
+	height:80vh;
+	background-color: aliceblue;
+}
+
+#amazing{
+	width:700px;
+	height:75vh;
+	background-color: deeppink;
+}
+
+#will{
+	width:660px;
+	height:70vh;
+	background-color: linen;
+}
+
+#i{
+	width:640px;
+	height:60vh;
+	background-color: tomato;
+}
+
+#always{
+	width:500px;
+	height:50vh;
+	background-color: seagreen;
+}
+
+#be{
+	width:420px;
+	height:40vh;
+	background-color: salmon;
+}
+
+#learning{
+	width:400px;
+	height:30vh;
+	background-color: thistle;
+}
+
+#out{
+	width:330px;
+	height:20vh;
+	background-color: springgreen;
+}
+
+#of{
+	width:300px;
+	height:10vh;
+	background-color: white;
+}
