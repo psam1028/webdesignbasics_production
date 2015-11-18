@@ -1,0 +1,107 @@
+div{
+position: absolute;
+}
+
+.pink{
+	background-color: #d83a67;
+	width: 10%;
+	height: 15%;
+	left: 30%;
+    top: 30%;
+    z-index: 75;
+}
+
+.blue{
+	background-color: #3ac5d8;
+	width: 20%;
+	height: 30%;
+	right: 15%;
+	bottom: 20%;
+}
+
+.orange{
+	background-color: #edb529;
+	width: 10%;
+	height: 15%;
+	right: 40%;
+	bottom: 70%;
+}
+
+.green{
+	background-color: #76ed29;
+	width: 20%;
+	height: 30%;
+	right: 55%;
+	bottom: 15%;
+	z-index: 50;
+}
+
+.maroon{
+	background-color: #420b26;
+	width: 10%;
+	height: 15%;
+	right: 10%;
+	top: 15%;
+	z-index: 80;
+}
+
+.red{
+	background-color: #e01440;
+	width: 10%;
+	height: 15%;
+	left: 60%;
+	top: 25%;
+	z-index: 85;
+}
+
+.purple{
+	background-color: #9f14e0;
+	width: 20%;
+	height: 30%;
+	z-index: 90;
+}
+
+.teal{
+	background-color: #25f4a9;
+	width: 10%;
+	height: 15%;
+	top: 5%;
+	left: 5%;
+	z-index: 95;
+}
+
+.yellow{
+	background-color: #f9f919;
+	width: 10%;
+	height: 15%;
+	top: 5%;
+	left: 35%;
+	z-index: 100;
+}
+
+.black{
+	background-color: black;
+	width: 10%;
+	height: 15%;
+	bottom: 5%;
+	right: 35%;
+	z-index: 105;
+}
+
+.beige{
+	background-color: #c9c9a7;
+	width: 10%;
+	height: 15%;
+	top: 5%;
+	right: 15%;
+	z-index: 110;
+}
+
+.gray{
+	background-color: #939393;
+	width: 10%;
+	height: 15%;
+	bottom: 5%;
+	left: 5%;
+	z-index: 115;
+}
