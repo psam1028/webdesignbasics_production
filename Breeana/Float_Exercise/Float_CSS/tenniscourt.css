@@ -1,0 +1,58 @@
+
+.square {
+	width: 150px;
+	height: 150px;
+	background-color: purple;
+	margin: 2px;
+	float: left;
+}
+
+.box_holder {
+	width: 440px;
+	height: 210px;
+	background-color: white;
+	margin: auto;
+}
+
+.second_box_holder {
+	height: 210px;
+	background-color: white;
+}
+
+#center {
+	width: 305px;
+	height: 60px;
+	background-color: blue;
+	float: left;
+	margin: 1px;
+}
+
+#center_bottom {
+	width: 305px;
+	height: 60px;
+	background-color: blue;
+	float: left;
+	margin: 1px;
+	clear: left;
+}
+
+.skinny {
+	height: 214px;
+	width: 60px;
+	background-color: red;
+	margin: 3px;
+	clear: left;
+	float: left;
+}
+
+.skinny_right {
+	height: 214px;
+	width: 60px;
+	margin: 2px;
+	background-color: red;
+	float: right;
+}
+
+
+
+

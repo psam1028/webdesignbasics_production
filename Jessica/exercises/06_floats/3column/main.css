@@ -1,0 +1,40 @@
+div{
+
+background-color: red;
+border: 1px solid white;
+}
+
+.header{
+height: 200px;
+clear: all;
+}
+
+.border{
+height: 50px;
+clear: all;
+}
+
+.columns{
+height: 302px;
+clear: all;
+max-width: 100%;
+}
+
+.n{
+height: 300px;
+width: 33%;
+float: left;
+}
+
+.footer{
+width: 100%;
+height: 150px;
+float: left;
+clear: all;
+}
+
+.header + .border + .footer{
+	width: 100%;
+}
+
+

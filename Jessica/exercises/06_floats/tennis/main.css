@@ -1,0 +1,37 @@
+.red{
+	background-color: red;
+	border: 1px solid white;
+}
+
+#court{
+	float: left;
+}
+
+.half{
+	clear: left;
+
+}
+
+.side{
+	height:154px;
+	width:70px;
+	float: left;
+}
+
+.middle{
+	height:154px;
+	width:206px;
+	float: left;
+}
+
+.chunk{
+	height: 50px;
+	width: 204px;
+	clear: left;
+}
+
+.square{
+	width: 100px;
+	height: 100px;
+	float: left;
+}

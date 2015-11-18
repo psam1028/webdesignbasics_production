@@ -1,0 +1,122 @@
+#background{
+	width:960px;
+	height:1340px;
+	background-color:#f2f2f2;
+	overflow:hidden;
+	position:absolute;
+	
+}
+#bigcircle{
+	width:1339px;
+	height:1339px;
+	background-color:black;
+	border-radius:50%;
+	margin-left:272.5px;
+	margin-top:-673.6px;
+	position:absolute;
+}
+#midcircle{
+	margin-left:15px;
+	margin-top:410.3px;
+	width:521.5px;
+	height:521.5px;
+	border-radius:50%;
+	background-color:black;
+	position:absolute;
+}
+#midmini{
+	width:199px;
+	height:199px;
+	background-color:black;
+	position:absolute;
+	border-radius:50%;
+	margin-left:430.4px;
+	margin-top:831.8px;
+}
+#mini{
+	width:80.5px;
+	height:80.5px;
+	background-color:black;
+	position:absolute;
+	border-radius:50%;
+	margin-left:597.5px;
+	margin-top:792px;
+}
+
+#textone{
+	margin-left:15px;
+	height:239.5px;
+	width:265px;
+	margin-top:1083.9px;
+	position:absolute;
+}
+#texttwo{
+	margin-left:290.0px;
+	margin-top:1083.9px;
+	height:239.5px;
+	width:345.3px;
+	position:absolute;
+}
+
+#textthree{
+	margin-left:659.6px;
+	margin-top:1231.7px;
+	height:98.6px;
+	width:300.4px;
+	position:absolute;
+}
+p{
+	font-size:10px;
+	color:black;
+}
+#name{
+	margin-left:661.9px;
+	margin-top:1083.9px;
+	font-size:55px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#name:hover {
+	-moz-transform: scale(0.7) rotate(20deg);
+	-webkit-transform: scale(0.7) rotate(20deg);
+	-o-transform: scale(0.7) rotate(20deg);
+	-ms-transform: scale(0.7) rotate(20deg);
+	transform: scale(0.7) rotate(20deg);
+}
+
+#mini:hover{
+  width: 80.5px;
+  height: 80.5px;
+  background-color:black;
+  margin-left:597.5px;
+  margin-top:792px;
+  animation: square-to-circle 2s .5s infinite cubic-bezier(1,.015,.295,1.225) alternate;
+}
+ 
+@keyframes square-to-circle {
+  0%  {
+    border-radius:0 0 0 0;
+    background:#404040;
+    transform:rotate(0deg);
+  }
+  25%  {
+    border-radius:50% 0 0 0;
+    background:#666666;
+    transform:rotate(45deg);
+  }
+  50%  {
+    border-radius:50% 50% 0 0;
+    background:#999999;
+    transform:rotate(90deg);
+  }
+  75%  { 
+    border-radius:50% 50% 50% 0;
+    background:#cccccc;
+    transform:rotate(135deg);
+  }
+  100% {  
+    border-radius:50%;
+    background:black;
+    transform:rotate(180deg);
+  }
+}

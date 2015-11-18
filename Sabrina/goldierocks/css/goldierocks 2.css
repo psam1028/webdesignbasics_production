@@ -1,0 +1,98 @@
+
+body {
+	background-color: black;
+
+}
+
+img{
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+p { 
+	color: white;
+	font-family: times;
+	font-size: 16px;
+	width: 500px;
+}
+
+h1 {
+	color: white;
+	font-family: didot;
+	font-size: 40px;
+	z-index: 10;
+	top: 0;
+	left: 150px;
+	position: absolute;
+}
+
+h2 {
+	color: white;
+	font-family: helvetica;
+	font-size: 18px;
+	z-index: 10px;
+	top: 55px;
+	left: 235px;
+	position: absolute;
+}
+
+#quote1{
+	color: #c99ff5;
+	font-size: 22px;
+	font-family: didot;
+	left: 720px;
+	top: 350px;
+	position: absolute;
+	text-align: center;
+}
+
+#quote2{
+	color: #c99ff5;
+	font-size: 22px;
+	font-family: didot;
+	position: absolute;
+	top: 1410px;
+	left: 820px;
+	text-align: center;
+}
+
+#interview{
+	color: white;
+	font-family: didot;
+	font-size: 30px;
+	position: absolute;
+	top: 80px;
+	left: 850px;
+}
+
+.question{
+	color: #c99ff5;
+	font-family: times;
+}
+
+h5 {
+	color: white;
+}
+
+h6{ 
+	color: white;
+	position: absolute;
+	font-family: didot;
+	font-size: 14px;
+	top: 160px;
+	left: 850px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

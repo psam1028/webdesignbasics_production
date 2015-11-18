@@ -1,0 +1,35 @@
+
+
+#header {
+	height: 100px;
+	width: 600px;
+	background-color: green;
+	float: left;
+	margin: 10px 10px 50px 10px;
+}
+
+.body {
+	height: 400px;
+	width: 600px;
+	background-color: green;
+	float: left;
+	clear: left;
+	margin: 10px 10px 0px 10px;
+}
+
+.small {
+	height: 200px;
+	width: 150px;
+	background-color: green;
+	float: left;
+	margin: 10px 0px 0px 0px;
+}
+
+.thin {
+	height: 40px;
+	width: 600px;
+	clear: left;
+	float: left;
+	background-color: green;
+	margin: 5px 10px 50px 10px;
+}
