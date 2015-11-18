@@ -1,0 +1,45 @@
+
+#header{
+	width: 100%;
+	height: 200px;
+	clear: all;
+	background-color: red;
+	border: 1px solid white;
+}
+
+.post{
+	max-width: 100%;
+	height: 579px;
+	margin-top: 150px;
+	clear: all;
+}
+
+.chunk{
+	max-width: 100%;
+	clear: all;
+}
+
+.content{
+	height: 400px;
+	width: 70%;
+	background-color: red;
+	border: 1px solid white;
+	float: left;
+}
+
+.detail{
+	height: 150px;
+	width: 25%;
+	background-color: red;
+	border: 1px solid white;
+	float: left;
+}
+
+.footer{
+	width: 70%;
+	height: 150px;
+	background-color: red;
+	border: 1px solid white;
+	float: left;
+
+}
