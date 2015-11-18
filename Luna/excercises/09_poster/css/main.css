@@ -3,6 +3,7 @@
 	width: 1000px;
 	height: 685px;
 	padding: auto;
+	z-index: 10;
 }
 
 .black-1 {
@@ -49,6 +50,9 @@ background-color: #DF0101;
 width: 155px;
 height: 30px;
 }
+.red:hover {
+background-color: #642EFE;
+}
 
 .purple {
 float:left; 
@@ -56,6 +60,9 @@ margin: 1px;
 background-color: #642EFE;
 width: 90px;
 height: 30px;
+}
+.purple:hover {
+background-color: #0B3B17;
 }
 
 .green-1 {
@@ -65,6 +72,9 @@ background-color: #0B3B17;
 width: 28px;
 height: 30px;
 }
+.green-1:hover {
+background-color: #F7D358;
+}
 
 .green-2 {
 float:left; 
@@ -73,6 +83,10 @@ background-color: #0B3B17;
 width: 7px;
 height: 30px;
 }
+.green-2:hover {
+background-color: white;
+}
+
 
 .white {
 float:left; 
@@ -80,6 +94,9 @@ margin: 1px;
 background-color: white;
 width: 14px;
 height: 30px;
+}
+.white:hover {
+background-color: #F7D358;
 }
 
 .yellow {
@@ -89,16 +106,52 @@ background-color: #F7D358;
 width: 27px;
 height: 30px;
 }
-
-.writing {
-	margin-bottom: 100px;
-	font-family: helvetica;
-	margin-left: 50px;
+.yellow:hover {
+background-color: #DF0101;
 }
 
-.1 {
-	height: 10px;
-	width: 30px;
-	float: left;
-	margin-left: 12px;
+h2 {
+	position: absolute;
+	color: white;
+	font-family: helvetica;
+	top:450px;
+	left: 400px;
+}
+h3 {
+	position: absolute;
+	color: white;
+	font-family: helvetica;
+	width: 294px;
+	top:420px;
+	left: 690px;
+}
+
+h5 {
+	position: absolute;
+	color: white;
+	font-family: helvetica;
+	top:635px;
+	left: 820px;
+}
+
+.artist {
+	transform: rotate (25deg);
+		background: black;
+	position: absolute;
+	color: white;
+	font-family: helvetica;
+	top:1100px;
+	left: 820px;
+
+}
+
+
+
+h1 {
+	position: absolute;
+	color: white;
+	font-family: helvetica;
+	font-size: 25px;
+	top:1195px;
+	left: 15px;
 }
