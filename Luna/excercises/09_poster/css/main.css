@@ -1,0 +1,104 @@
+.poster {
+	border: 5px;
+	width: 1000px;
+	height: 685px;
+	padding: auto;
+}
+
+.black-1 {
+float:left; 
+margin: 2px;
+background-color: black;
+width: 336px;
+height: 866px;
+}
+
+.black-2 {
+float:left; 
+margin: 2px;
+background-color: black;
+width: 638px;
+height: 832px;
+}
+
+.black-3 {
+margin: 2px;
+float: left;
+position: static;
+background-color: black;
+width: 672px;
+height: 364px;
+clear: left;
+}
+
+.black-4 {
+float: right;
+position: static;
+margin: 2px;
+background-color: black;
+width: 300px;
+height: 400px;
+margin-right:20px;
+}
+
+
+.red {
+float:left; 
+margin: 1px;
+background-color: #DF0101;
+width: 155px;
+height: 30px;
+}
+
+.purple {
+float:left; 
+margin: 1px;
+background-color: #642EFE;
+width: 90px;
+height: 30px;
+}
+
+.green-1 {
+float:left; 
+margin: 1px;
+background-color: #0B3B17;
+width: 28px;
+height: 30px;
+}
+
+.green-2 {
+float:left; 
+margin: 1px;
+background-color: #0B3B17;
+width: 7px;
+height: 30px;
+}
+
+.white {
+float:left; 
+margin: 1px;
+background-color: white;
+width: 14px;
+height: 30px;
+}
+
+.yellow {
+float:left; 
+margin: 1px;
+background-color: #F7D358;
+width: 27px;
+height: 30px;
+}
+
+.writing {
+	margin-bottom: 100px;
+	font-family: helvetica;
+	margin-left: 50px;
+}
+
+.1 {
+	height: 10px;
+	width: 30px;
+	float: left;
+	margin-left: 12px;
+}
