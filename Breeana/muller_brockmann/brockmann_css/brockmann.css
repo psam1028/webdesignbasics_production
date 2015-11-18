@@ -1,0 +1,150 @@
+
+
+#top_half {
+	width: 960px;
+	height: 600px;
+	background-color: white;
+	margin: 0px 0px 0px 0px;
+}
+
+#bottom_half {
+	width: 750px;
+	height: 500px;
+	background-color: white;
+	margin: auto;
+}
+
+#circle_big {
+	height: 570px;
+	width: 570px;
+	border-radius: 50%;
+	background-color: black;
+	float: right;
+	transition: background-color 0.5s ease;
+  	webkit-transition: -webkit-transform .8s ease-in-out;
+  	transition: transform .8s ease-in-out;
+}
+
+
+#circle_big:hover {
+    background-image: url(http://www.llamasintheraw.com/wp-content/uploads/2013/01/manna-llama-face.jpg);
+    webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+  	webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+}
+
+/* figure out how to cut circle off */
+
+#circle_medium {
+	height: 400px;
+	width: 400px;
+	border-radius: 50%;
+	background-color: black;
+	float: left;
+	transition: background-color 0.5s ease;
+	webkit-transition: -webkit-transform .8s ease-in-out;
+  	transition: transform .8s ease-in-out;
+}
+
+#circle_medium:hover {
+	background-image: url(http://files.gamebanana.com/img/ico/sprays/516c32f08e03d.png);
+	background-repeat: no-repeat; 
+    webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+  	webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+}
+
+#circle_baby {
+	height: 75px;
+	width: 75px;
+	border-radius: 50%;
+	background-color: black;
+	float: left;
+	margin: 180px 50px 0px 0px;
+	transition: background-color 0.5s ease;
+	webkit-transition: -webkit-transform .8s ease-in-out;
+  	transition: transform .8s ease-in-out;
+}
+
+#circle_baby:hover {
+	background-image: url(https://38.media.tumblr.com/c67893366fbe8e70fd12cd2a75a9277f/tumblr_mvhbegWyhf1r71lfso2_500.gif);
+    webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+  	webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+}
+
+#circle_small {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	background-color: black;
+	float: left;
+	margin: 250px 0px 0px 0px;
+	transition: background-color 0.5s ease;
+	webkit-transition: -webkit-transform .8s ease-in-out;
+  	transition: transform .8s ease-in-out;
+}
+
+#circle_small:hover {
+	background-image: url(http://www.themesltd.com/backgrounds/floral/roses_in_full_bloom.jpg);
+    webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+  	webkit-transform: rotate(360deg);
+  	transform: rotate(360deg);
+}
+
+#circle_holder {
+	width: 300px;
+	height: 200px;
+	float: left;
+	background-color: white;
+	margin: 200px 0px 0px 0px;
+}
+
+h1 {
+	font-family: "Helvetica Nue", Arial, sans-serif;
+	font-size: 42px;
+	float: right;
+	margin: 37px 60px 0px 0px;
+	font-weight: 100;
+}
+
+p {
+	font-family: "Helvetica Nue", Arial, sans-serif;
+	font-size: 18px;
+}
+
+#column_left {
+	width: 260px;
+	background-color: white;
+	float: left;
+	margin: 30px 15px 0px 0px;
+	line-height: 23px;
+}
+
+#column_right {
+	width: 285px;
+	background-color: white;
+	margin: 60px 0px 0px 0px;
+	float: right;
+	line-height: 23px;
+}
+
+#column_center {
+	width: 350px;
+	background-color: white;
+	float: left;
+	margin: 30px 35px 0px 0px;
+	line-height: 23px;
+}
+
+#footer {
+	width: 960px;
+	height: 350px;
+	clear: both;
+	margin: auto;
+
+}
