@@ -1,0 +1,236 @@
+section {
+	width: 960px;
+	height: 1352px;
+	background-color: #154D93;
+	margin: auto;
+}
+
+
+h1 {
+	color: #469953;
+	font-family: Helvetica;
+	font-size: 150px;
+	font-weight: bold;
+}
+
+span {
+	display: block;
+}
+
+#m {
+	position: relative;
+	left: 25%;
+	top: 500px;
+}
+
+#m:hover {
+	-moz-transform: scale(3) rotate(50deg);
+	-moz-transform: scale(3) rotate(50deg);
+	-webkit-transform: scale(3) rotate(50deg);
+	-o-transform: scale(3) rotate(50deg);
+	-ms-transform: scale(3) rotate(50deg);
+	transform: scale(3) rotate(50deg);
+}
+
+#u {
+	position: relative;
+	left:38%;
+	top: 330px;
+}
+
+#u:hover {
+	-moz-transform: scale(3) rotate(50deg);
+	-moz-transform: scale(3) rotate(50deg);
+	-webkit-transform: scale(3) rotate(50deg);
+	-o-transform: scale(3) rotate(50deg);
+	-ms-transform: scale(3) rotate(50deg);
+	transform: scale(3) rotate(50deg);
+}
+
+#s {
+	position: relative;
+	left: 53%;
+	top: 157px;
+
+	animation-name: colorss;
+	animation-duration: 2s;
+	animation-timing-function: ease-in-out;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	animation-play-state: running;
+	animation-fill-mode: none;	
+}
+
+@-webkit-keyframes colorss {
+		0% {
+			color: #469953;
+	}
+	50% {
+	color: blue;
+	}
+	100% {
+	color: orange;
+	}
+}
+
+#i{
+	position: relative;
+	left: 67%;
+	bottom: 17px;
+
+	transition-property: color;
+	transition-duration: 800ms;
+	transition-timing-function: ease-in-out;
+	transition-delay: 300ms;	
+
+}
+
+#i:hover {
+	color: yellow;
+  	cursor: pointer;
+}
+
+#c {
+	position: relative;
+	left: 75%;
+	bottom: 190px;
+
+	animation-name: colors;
+	animation-duration: 3.5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-play-state: running;
+	animation-fill-mode: none;	
+
+
+}
+
+@-webkit-keyframes colors {
+		0% {
+			color: #469953;
+	}
+	50% {
+	color: yellow;
+	}
+	100% {
+	color: red;
+	}
+}
+
+
+#a {
+	position: relative;
+	left: 84%;
+	bottom: 365px;
+
+	animation-name: acolor;
+	animation-duration: 3.5s;
+	animation-timing-function: linear;
+	animation-delay: 0s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-play-state: running;
+	animation-fill-mode: none;	
+}
+
+@-webkit-keyframes acolor {
+		0% {
+			color: #469953;
+	}
+	50% {
+	color: red;
+	}
+	100% {
+	color: yellow;
+	}
+}
+
+
+#v{
+	position: relative;
+	left: 65%;
+	bottom: 690px;
+
+	transition-property: font-size;
+	transition-duration: 500ms;
+	transition-timing-function: linear;
+	transition-delay: 100ms;	
+}
+
+#v:hover {
+	font-size: 200px;
+  	cursor: pointer;
+}
+
+#vv {
+	position: relative;
+	left: 65%;
+	bottom: 580px;
+
+	transition-property: font-size;
+	transition-duration: 600ms;
+	transition-timing-function: linear;
+	transition-delay: 100ms;
+}
+
+#vv:hover {
+	font-size:50px;
+	cursor:pointer;
+}
+
+#aa{
+	position: relative;
+	left: 65%;
+	bottom: 620px;
+
+	transition-property: color;
+	transition-duration: 600ms;
+	transition-timing-function: ease-in-out;
+	transition-delay: 100ms;	
+}
+
+#aa:hover {
+	color: pink;
+	cursor: pointer;
+}
+
+p {
+	color: white;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+.one {
+	position: relative;
+	bottom: 680px;
+	left: 25%;
+	width: 20%;
+}
+
+.two {
+	position: relative;
+	bottom: 889px;
+	left: 30%;
+	clear: both;
+
+	-moz-transform: scale(-1, 1);
+	-webkit-transform: scale(-1, 1);
+	-o-transform: scale(-1, 1);
+	-ms-transform: scale(-1, 1);
+	transform: scale(-1, 1);
+}
+
+.three {
+	position: relative;
+	bottom: 1122px;
+	left: 65%;
+}
+
+.four {
+	position: relative;
+	bottom: 1227px;
+	left: 75%;
+}
