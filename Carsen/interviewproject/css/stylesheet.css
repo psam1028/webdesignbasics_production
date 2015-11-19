@@ -30,6 +30,11 @@ header{
 	background-color: #82bcda;
 }
 
+#bounding{
+	width: 100%;
+	height: 100%;
+}
+
 #sidebarbounding{
 	width: 280px;
 	height: 480px;
@@ -52,7 +57,7 @@ header{
 }
 
 #interviewbounding{
-	width: 950px;
+	width: 77%;
 	height: 491px;
 	overflow: hidden;
 	float: left;
@@ -121,7 +126,8 @@ a:hover{
 	width: 100%;
 	height: 40px;
 	background-color: #82bcda;
-	clear: both; 
+	clear: both;
+	z-index: 10;
 }
 
 h6{
