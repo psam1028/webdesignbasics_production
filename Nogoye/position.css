@@ -1,0 +1,265 @@
+html {
+	width: 2000px;
+	height: 4000px;
+	background-color: white;
+}
+
+#column1 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 30px 4px 0px 4px;
+}
+
+#column2 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 50px 4px 0px 4px;
+}
+
+#column3 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 10px 4px 0px 4px;
+}
+
+#column4 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 50px 4px 0px 4px;
+}
+
+#column5 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 40px 4px 0px 4px;
+}
+
+#column6 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 62px 4px 0px 4px;
+}
+
+#column7 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 65px 4px 0px 4px;
+}
+
+#column8 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 80px 4px 0px 4px;
+}
+
+#column9 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 68px 4px 0px 4px;
+}
+
+#column10 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 58px 4px 0px 4px;
+}
+
+#column11 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 80px 4px 0px 4px;
+}
+
+#column12 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 0px 4px 0px 4px;
+}
+
+#column13 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 65px 4px 0px 4px;
+}
+
+#column14 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 32px 4px 0px 4px;
+}
+
+#column15 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 70px 4px 0px 4px;
+}
+
+#column16 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 65px 4px 0px 4px;
+}
+
+#column17 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 90px 4px 0px 4px;
+}
+
+#column18 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 36px 4px 0px 4px;
+}
+
+#column19 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 67px 4px 0px 4px;
+}
+
+#column20 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 100px 4px 0px 4px;
+}
+
+#column21 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 75px 4px 0px 4px;
+}
+
+#column22 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 89px 4px 0px 4px;
+}
+
+#column23 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 23px 4px 0px 4px;
+}
+
+#column24 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 45px 4px 0px 4px;
+}
+
+#column25 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 5px 4px 0px 4px;
+}
+
+#column26 {
+	position: relative;
+	width: 20px;
+	height: 150px;
+	background-color: red;
+	float: left;
+	padding: 0;
+	margin: 36px 4px 0px 4px;
+}
