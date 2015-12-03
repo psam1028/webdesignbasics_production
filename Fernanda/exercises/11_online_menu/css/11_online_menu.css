@@ -1,0 +1,53 @@
+
+
+h1 {
+	font-family: Avenir;
+	margin-left: 45px;
+}
+
+table {
+	margin-left: 50px;
+	width: 25%;
+}
+
+thead {
+	font-family: Avenir;
+	font-weight: lighter;
+	color: green;
+}
+
+thead th {
+	border-collapse: separate;
+	border-bottom: 2px dotted green;
+	padding: 5px;
+	text-align: center;
+
+}
+
+tbody {
+	font-family: Gotham Book, sans-serif;
+}
+
+tbody td {
+	border-collapse: collapse;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+
+}
+
+tbody tr:nth-child(1) {
+	background-color: #CC6600;
+}
+
+tbody tr:nth-child(2) {
+	background-color: #CC6600;
+}
+
+tbody tr:nth-child(5) {
+	background-color: #CC6600;
+}
+
+tbody tr:nth-child(6) {
+	background-color: #CC6600;
+}
