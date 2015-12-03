@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+
+img{
+	position: absolute;
+	vertical-align: center;
+	left: 560px;
+	top: 10px;
+}
+
+#top{
+	top: 0;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: 1;
+}
+
+#bottom{
+	top: 875px;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+}

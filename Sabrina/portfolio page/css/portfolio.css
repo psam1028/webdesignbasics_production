@@ -1,0 +1,53 @@
+
+/* SABRINA */
+h1 {
+	font-family: Haettenschweiler, serif;
+	letter-spacing: 5px;
+	font-size: 120px;
+	color: white;
+	left: 700px;
+	top: 160px;
+	position: fixed;
+}
+
+/* STECK */
+h2{
+	font-family: Haettenschweiler;
+	letter-spacing: 5px;
+	font-size: 120px;
+	color: white;
+	left: 900px;
+	top: 250px;
+	position: fixed;
+}
+
+/* ENTER */
+a{
+	font-family: Haettenschweiler;
+	letter-spacing: 5px;
+	font-size: 60px;
+	color: white;
+	left: 1540px;
+	top: 840px;
+	position: fixed;
+	text-decoration: none;
+}
+a:hover{
+	color: #eb6702;
+}
+a:link{
+	color: white;
+}
+
+/* background */
+img{ 
+	position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+/* self portrait */
+img:nth-of-type(2){
+	position: fixed;
+}

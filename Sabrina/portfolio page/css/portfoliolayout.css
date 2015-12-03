@@ -1,0 +1,306 @@
+body{
+	background-color: black;
+}
+
+/* home */
+h1:nth-of-type(1){
+	color: white;
+	position: absolute;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1160px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 2;
+}
+
+/* portfolio */
+h2{
+	color: #f671e2;
+	position: absolute;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1270px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 2;
+}
+
+/* about */
+h3{
+	color: white;
+	position: absolute;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1430px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 2;
+}
+
+/* contact */
+h4{
+	color: white;
+	position: absolute;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1550px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 2;
+}
+
+h1:hover{
+	color: #82ebf7;
+}
+h2:hover{
+	color: #82ebf7;
+}
+h3:hover{
+	color: #82ebf7;
+}
+h4:hover{
+	color: #82ebf7;
+}
+
+
+
+/*images */
+
+
+/* row 1 */
+.self{
+	top: 100px;
+	left: 200px;
+	width: 100px;
+	height: 10px;
+	position: absolute;
+}
+
+.self figure {
+	background: #f8a657;
+}
+.self figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.self figure:hover img {
+	opacity: .6;
+}
+
+.dad{
+	top: 100px;
+    left: 650px;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.dad figure {
+	background: #f8a657;
+}
+.dad figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.dad figure:hover img {
+	opacity: .6;
+}
+
+.nudemodel{
+	top: 100px;
+    left: 1100px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.nudemodel figure {
+	background: #f8a657;
+}
+.nudemodel figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.nudemodel figure:hover img {
+	opacity: .6;
+}
+
+/* row 2 */
+.ele {
+	top: 550px;
+    left: 200px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.ele figure {
+	background: #f8a657;
+}
+.ele figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.ele figure:hover img {
+	opacity: .6;
+}
+
+.foot{
+	top: 550px;
+    left: 650px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.foot figure {
+	background: #f8a657;
+}
+.foot figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.foot figure:hover img {
+	opacity: .6;
+}
+
+
+.kitkat{
+	top: 550px;
+    left: 1100px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.kitkat figure {
+	background: #f8a657;
+}
+.kitkat figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.kitkat figure:hover img {
+	opacity: .6;
+}
+
+/* row 3 */
+.bama{
+	top: 1000px;
+    left: 200px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.bama figure {
+	background: #f8a657;
+}
+.bama figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.bama figure:hover img {
+	opacity: .6;
+}
+
+.anx {
+	top: 1000px;
+    left: 650px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+.anx figure {
+	background: #f8a657;
+}
+.anx figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.anx figure:hover img {
+	opacity: .6;
+}
+
+
+.zoe{
+	top: 1000px;
+    left: 1100px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+}
+
+.zoe figure {
+	background: #f8a657;
+}
+.zoe figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.zoe figure:hover img {
+	opacity: .6;
+}
+
+
+
+
+
+/* banner */
+#top{
+	top: 0;
+	left: 0;
+	height: 40px;
+	width: 1700px;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: 1;
+}
+
+#bottom{
+	top: 1450px;
+	left: 0;
+	height: 40px;
+	width: 1700px;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+}
+
+
+

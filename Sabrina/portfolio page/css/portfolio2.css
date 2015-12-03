@@ -1,0 +1,198 @@
+body{
+	background-color: #f8a657;
+}
+
+/* home */
+h1:nth-of-type(1){
+	color: #f671e2;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1160px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* portfolio */
+h2{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1270px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* about */
+h3{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1430px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* contact */
+h4{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1550px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+h1:hover{
+	color: #82ebf7;
+}
+h2:hover{
+	color: #82ebf7;
+}
+h3:hover{
+	color: #82ebf7;
+}
+h4:hover{
+	color: #82ebf7;
+}
+
+
+
+
+
+.foot {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/foot.JPG) no-repeat;
+	background-size: cover;
+	left: 500px;
+	top: 800px;
+	position: fixed;
+}
+a:hover{
+	color: red;
+}
+a:link{
+	text-decoration: none;
+}
+
+.self {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/selfport.png) no-repeat;
+	background-size: cover;
+	left: 600px;
+	top: 800px;
+	position: fixed;
+}
+.zoe {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Zoe_Painting.JPG) no-repeat;
+	background-size: cover;
+	left: 700px;
+	top: 800px;
+	position: fixed;
+}
+
+.dad {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/dad.jpg) no-repeat;
+	background-size: cover;
+	left: 800px;
+	top: 800px;
+	position: fixed;
+}
+
+.bama {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Vans_Ink_5.JPG) no-repeat;
+	background-size: cover;
+	left: 900px;
+	top: 800px;
+	position: fixed;
+}
+
+.body {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Live%20Model_Charcoal.JPG) no-repeat;
+	background-size: cover;
+	left: 1000px;
+	top: 800px;
+	position: fixed;
+}
+
+.ele {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/IMG_7911.jpg) no-repeat;
+	background-size: cover;
+	left: 1100px;
+	top: 800px;
+	position: fixed;
+}
+
+.anx {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Serene_Painting.JPG) no-repeat;
+	background-size: cover;
+	left: 1200px;
+	top: 800px;
+	position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

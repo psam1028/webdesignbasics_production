@@ -1,0 +1,10 @@
+body{
+	background-color: #f8a657;
+}
+
+img{
+	position: fixed;
+	vertical-align: center;
+	height: 800px;
+	width: 800px;
+}
