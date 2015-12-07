@@ -1,0 +1,119 @@
+body{
+	background-color: black;
+}
+/* home */
+h1{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1160px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* portfolio */
+h2{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1270px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* about */
+h3{
+	color: #f671e2;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1430px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* contact */
+h4{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1550px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+h1:hover{
+	color: #82ebf7;
+}
+h2:hover{
+	color: #82ebf7;
+}
+h3:hover{
+	color: #82ebf7;
+}
+h4:hover{
+	color: #82ebf7;
+}
+
+
+img{
+	position: absolute;
+	left: 400px;
+	top: 55px;
+	height: 800px;
+	width: 800px;
+}
+
+
+#box1{
+	height: 350px;
+	width: 200px;
+	left: 1220px;
+	top: 55px;
+	border: 2px solid #f8a657;
+	position: absolute;
+	font-size: 22px;
+	font-style: times;
+	color: white;
+	padding: 5px;
+}
+
+
+/* banner */
+#top{
+	top: 0;
+	left: 0;
+	height: 40px;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: -1;
+}
+
+#bottom{
+	top: 870px;
+	left: 0;
+	height: 40px;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: -1;
+	margin: 0;
+	padding: 0;
+}
+

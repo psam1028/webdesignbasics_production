@@ -1,0 +1,46 @@
+body{
+	background-color: black;
+}
+
+img{
+	position: absolute;
+	vertical-align: center;
+	left: 560px;
+	top: 80px;
+}
+
+h1{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 10px;
+	top: 0;
+	letter-spacing: 5px;
+	font-size: 35px;
+	z-index: 2;
+	padding: 0;
+	margin: 0;
+}
+
+#top{
+	top: 0;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: 1;
+}
+
+#bottom{
+	top: 875px;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: 1;
+	margin: 0;
+	padding: 0;
+}

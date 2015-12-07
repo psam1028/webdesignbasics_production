@@ -1,0 +1,189 @@
+body{
+	background-color: #f8a657;
+}
+
+/* home */
+h1{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1160px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+/* portfolio */
+h2{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1270px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+/* about */
+h3{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1430px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+/* contact */
+h4{
+	color: #f671e2;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1550px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+h1:hover{
+	color: #82ebf7;
+}
+h2:hover{
+	color: #82ebf7;
+}
+h3:hover{
+	color: #82ebf7;
+}
+h4:hover{
+	color: #82ebf7;
+}
+
+
+p{
+	color: white;
+	left: 100px;
+	top: 200px;
+	font-family: helvetica;
+	position: absolute;
+	font-size: 20px;
+}
+.firstname {
+	background-color: white;
+	opacity: 0.3;
+	left: 100px;
+	top: 250px;
+	height: 50px;
+	width: 300px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+
+p:nth-of-type(2){
+	color: white;
+	left: 100px;
+	top: 350px;
+	font-family: helvetica;
+	position: absolute;
+	font-size: 20px;
+}
+.email {
+	background-color: white;
+	opacity: 0.3;
+	left: 100px;
+	top: 400px;
+	height: 50px;
+	width: 400px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+
+
+p:nth-of-type(3){
+	color: white;
+	left: 500px;
+	top: 200px;
+	font-family: helvetica;
+	position: absolute;
+	font-size: 20px;
+}
+.lastname {
+	background-color: white;
+	opacity: 0.3;
+	left: 500px;
+	top: 250px;
+	height: 50px;
+	width: 300px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+p:nth-of-type(4){
+	color: white;
+	left: 900px;
+	top: 200px;
+	font-family: helvetica;
+	position: absolute;
+	font-size: 20px;
+}
+.subject{
+	background-color: white;
+	opacity: 0.3;
+	left: 900px;
+	top: 250px;
+	height: 600px;
+	width: 450px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

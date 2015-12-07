@@ -1,0 +1,273 @@
+body{
+	background-color: #f8a657;
+}
+
+/* home */
+h1:nth-of-type(1){
+	color: #f671e2;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1160px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* portfolio */
+h2{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1270px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* about */
+h3{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1430px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+/* contact */
+h4{
+	color: white;
+	position: fixed;
+	font-family: Haettenschweiler;
+	word-spacing: 10px;
+	left: 1550px;
+	top: 5px;
+	letter-spacing: 5px;
+	font-size: 25px;
+	margin: 0;
+	padding: 0;
+}
+
+h1:hover{
+	color: #82ebf7;
+}
+h2:hover{
+	color: #82ebf7;
+}
+h3:hover{
+	color: #82ebf7;
+}
+h4:hover{
+	color: #82ebf7;
+}
+
+
+
+
+
+/* scroll tab */
+.sideslider{
+	top: 200px;
+	left: 5px;
+	position: fixed;
+	height: 1000px;
+	width: 100%;
+	overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+/* foot */
+.sideslider: img{
+	height: 100px;
+	width: 100px;
+	position: static;
+	top: 0;
+	left: 400px;
+	float: left;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+/* self */
+.sideslider: img:nth-of-type(2){
+	position: static;
+
+	top: 10px;
+	left: 200px;
+	float: left;
+
+}
+/* zoe */
+.sideslider: img:nth-of-type(3){
+	height: 600px;
+	width: 600px;
+	position: static;
+	top: 10px;
+	left: 400px;
+	float: left;
+
+}
+/* dad */
+.sideslider: img:nth-of-type(4){
+	height: 600px;
+	width: 600px;
+	position: relative;
+	top: 10px;
+	left: 400px;
+	float: left;
+}
+
+/* bama */
+.sideslider: img:nth-of-type(5){
+	height: 600px;
+	width: 600px;
+	position: relative;
+	top: 10px;
+	left: 400px;
+	float: left;
+}
+
+/* nude */
+.sideslider: img:nth-of-type(6){
+	height: 600px;
+	width: 600px;
+	position: relative;
+	top: 10px;
+	left: 400px;
+	float: left;
+}
+
+/* ele */
+.sideslider: img:nth-of-type(7){
+	height: 600px;
+	width: 600px;
+	position: relative;
+	top: 10px;
+	left: 400px;
+	float: left;
+}
+
+
+
+
+/* circle images */
+a:link{
+	text-decoration: none;
+}
+
+.foot{
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/foot.JPG) no-repeat;
+	background-size: cover;
+	left: 400px;
+	top: 800px;
+	position: fixed;
+}
+
+
+.self {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/selfport.png) no-repeat;
+	background-size: cover;
+	left: 500px;
+	top: 800px;
+	position: absolute;
+}
+.zoe {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Zoe_Painting.JPG) no-repeat;
+	background-size: cover;
+	left: 600px;
+	top: 800px;
+	position: absolute;
+}
+
+.dad {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/dad.jpg) no-repeat;
+	background-size: cover;
+	left: 700px;
+	top: 800px;
+	position: absolute;
+}
+
+.bama {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Vans_Ink_5.JPG) no-repeat;
+	background-size: cover;
+	left: 800px;
+	top: 800px;
+	position: absolute;
+}
+
+.body {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/DESKTOP/AP%20Art/Live%20Model_Charcoal.JPG) no-repeat;
+	background-size: cover;
+	left: 900px;
+	top: 800px;
+	position: absolute;
+}
+
+.ele {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/eleresized.jpg) no-repeat;
+	background-size: cover;
+	left: 1000px;
+	top: 800px;
+	position: absolute;
+}
+
+.kitkat {
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(file:///Users/sabrinasteck/Desktop/kitkatresiez.jpg) no-repeat;
+	background-size: cover;
+	left: 1100px;
+	top: 800px;
+	position: absolute;
+}
+
+
