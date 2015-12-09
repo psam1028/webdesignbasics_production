@@ -1,5 +1,28 @@
 body{
+	background-color: black;
+}
+
+/* banner */
+#top{
+	top: 0;
+	left: 0;
+	height: 40px;
+	width: 100%;
 	background-color: #f8a657;
+	position: absolute;
+	z-index: -1;
+}
+
+#bottom{
+	top: 880px;
+	left: 0;
+	height: 40px;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	z-index: -1;
+	margin: 0;
+	padding: 0;
 }
 
 /* home */
@@ -7,6 +30,7 @@ h1{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1160px;
 	top: 5px;
@@ -22,6 +46,7 @@ h2{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1270px;
 	top: 5px;
@@ -37,6 +62,7 @@ h3{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1430px;
 	top: 5px;
@@ -52,6 +78,7 @@ h4{
 	color: #f671e2;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1550px;
 	top: 5px;
@@ -79,7 +106,7 @@ h4:hover{
 p{
 	color: white;
 	left: 100px;
-	top: 200px;
+	top: 150px;
 	font-family: helvetica;
 	position: absolute;
 	font-size: 20px;
@@ -88,7 +115,7 @@ p{
 	background-color: white;
 	opacity: 0.3;
 	left: 100px;
-	top: 250px;
+	top: 200px;
 	height: 50px;
 	width: 300px;
 	position: absolute;
@@ -124,7 +151,7 @@ p:nth-of-type(2){
 p:nth-of-type(3){
 	color: white;
 	left: 500px;
-	top: 200px;
+	top: 150px;
 	font-family: helvetica;
 	position: absolute;
 	font-size: 20px;
@@ -133,7 +160,7 @@ p:nth-of-type(3){
 	background-color: white;
 	opacity: 0.3;
 	left: 500px;
-	top: 250px;
+	top: 200px;
 	height: 50px;
 	width: 300px;
 	position: absolute;
@@ -145,7 +172,7 @@ p:nth-of-type(3){
 p:nth-of-type(4){
 	color: white;
 	left: 900px;
-	top: 200px;
+	top: 150px;
 	font-family: helvetica;
 	position: absolute;
 	font-size: 20px;
@@ -154,7 +181,7 @@ p:nth-of-type(4){
 	background-color: white;
 	opacity: 0.3;
 	left: 900px;
-	top: 250px;
+	top: 200px;
 	height: 600px;
 	width: 450px;
 	position: absolute;

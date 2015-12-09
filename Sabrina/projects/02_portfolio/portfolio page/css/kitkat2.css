@@ -5,8 +5,8 @@ body{
 img{
 	position: absolute;
 	vertical-align: center;
-	left: 270px;
-	top: 70px;
+	left: 380px;
+	top: 90px;
 	height: 80%;
 }
 
@@ -14,6 +14,7 @@ h1{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 10px;
 	top: 0;

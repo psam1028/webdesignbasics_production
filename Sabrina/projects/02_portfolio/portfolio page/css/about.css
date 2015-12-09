@@ -6,6 +6,7 @@ h1{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1160px;
 	top: 5px;
@@ -20,6 +21,7 @@ h2{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1270px;
 	top: 5px;
@@ -34,6 +36,7 @@ h3{
 	color: #f671e2;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1430px;
 	top: 5px;
@@ -48,6 +51,7 @@ h4{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1550px;
 	top: 5px;

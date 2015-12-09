@@ -1,5 +1,28 @@
 body{
+	background-color: black;
+}
+
+/* banner */
+#top{
+	top: 0;
+	left: 0;
+	height: 40px;
+	width: 100%;
 	background-color: #f8a657;
+	position: absolute;
+	z-index: -1;
+}
+
+#bottom{
+	top: 880px;
+	left: 0;
+	height: 40px;
+	width: 100%;
+	background-color: #f8a657;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	z-index: -1;
 }
 
 /* home */
@@ -7,6 +30,7 @@ h1:nth-of-type(1){
 	color: #f671e2;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1160px;
 	top: 5px;
@@ -21,6 +45,7 @@ h2{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1270px;
 	top: 5px;
@@ -35,6 +60,7 @@ h3{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1430px;
 	top: 5px;
@@ -49,6 +75,7 @@ h4{
 	color: white;
 	position: fixed;
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	word-spacing: 10px;
 	left: 1550px;
 	top: 5px;

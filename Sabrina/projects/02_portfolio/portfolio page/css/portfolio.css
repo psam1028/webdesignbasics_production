@@ -1,7 +1,7 @@
-
 /* SABRINA */
 h1 {
-	font-family: Haettenschweiler, serif;
+	font-family: Haettenschweiler;
+	font-weight: normal;
 	letter-spacing: 5px;
 	font-size: 120px;
 	color: white;
@@ -13,6 +13,7 @@ h1 {
 /* STECK */
 h2{
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	letter-spacing: 5px;
 	font-size: 120px;
 	color: white;
@@ -24,6 +25,7 @@ h2{
 /* ENTER */
 a{
 	font-family: Haettenschweiler;
+	font-weight: normal;
 	letter-spacing: 5px;
 	font-size: 60px;
 	color: white;
