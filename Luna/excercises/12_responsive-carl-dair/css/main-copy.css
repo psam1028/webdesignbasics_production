@@ -1,5 +1,6 @@
 body {
 	background-color: #b0c4de;
+	margin: 100px;
 }
 header {
 	background-color: #FF9999;
@@ -44,6 +45,28 @@ ul {
 }
 p {
 	font-family: Verdana;
+
+}
+.column {
+position: fixed;
+float: left;
+top: 0px;
+left: 0px;
+width: 160px;
+height: 1000px;
+clear: both;
+background-color: #b0c4de;
+}
+
+.column {
+position: fixed;
+float: right;
+top: 0px;
+right: 0px;
+width: 160px;
+height: 1000px;
+clear: both;
+background-color: #b0c4de;
 }
 
 h4 {
@@ -54,3 +77,20 @@ h4 {
 	font-size: 15px;
 
 }
+
+.photo {
+  width: 100%;
+  padding: 10px;
+}
+  img {
+  	 max-width: 100%;
+  }
+
+
+
+@media screen and (max-device-width: 480px) {
+	h1 {
+		color: blue; 
+	} 
+	}
+}  

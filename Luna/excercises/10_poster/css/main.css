@@ -110,6 +110,8 @@ height: 30px;
 background-color: #DF0101;
 }
 
+
+
 h2 {
 	position: absolute;
 	color: white;
@@ -117,6 +119,13 @@ h2 {
 	top:450px;
 	left: 400px;
 }
+h2:hover {
+	color: red;
+	transition-delay: 1s;
+
+}
+
+
 h3 {
 	position: absolute;
 	color: white;
