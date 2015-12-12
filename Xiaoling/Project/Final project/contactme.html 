@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Contact Me</title> 
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link type="text/css" rel="stylesheet" href="Contactme.css">
+        <link href='https://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
+        <body>
+        	<div id="left">
+                <nav class="side-menu">
+                    <ul>
+                    	<li>
+                    		<a href="file:///Users/xiaolingchen/Desktop/Portfolio%20Homepage.html"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Home </li>
+                          </a>
+                        </li>
+                        <li>
+                            <a href="file:///Users/xiaolingchen/Desktop/work.html" class="active"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Works </a>
+                        </li>
+                        <li>
+                            <a href="file:///Users/xiaolingchen/Desktop/about%20me.html"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> About me </a>
+                        </li>
+                        <li>
+                            <a href="file:///Users/xiaolingchen/Desktop/contactme.html%20"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Contact </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div id="right">
+            	<br><span>Contact Me!</span><br>
+            	<div id="about me">
+                    <p>
+                    	<img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Cellphone: 6466393887
+                         Email:chenx552@newschool.edu
+                    </p>
+                </div>
+                <div class="social">
+                    <a href="https://www.facebook.com/xiaoling.chen.5074"><img id="social" src="http://i.stack.imgur.com/kNPKJ.gif"/></a>
+                    <a href="https://www.instagram.com/xiao93chen/"><img id="social"src="http://www.iconsdb.com/icons/preview/black/instagram-xxl.png"/></a>
+                    <a href="http://chenx552blog.tumblr.com"><img id="social"src="http://wcdn2.dataknet.com/static/resources/icons/set12/67a6bfe51416.png"/></a>
+                </div>
+            </div>
+		</body>
+    
+</html>
