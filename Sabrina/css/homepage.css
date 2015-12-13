@@ -1,61 +1,65 @@
 body{
-	background-color: gray;
+	background-color: black;
 }
 
 
 h1{
 	color: #b7e4fc;
 	font-family: didot;
-	text-align: center;
-	font-size: 50px;
+	left: 40%;
+	font-size: 70px;
+	position: absolute;
+	top: 20px;
+}
+
+li{
+	color: #d99ef7;
+	font-size: 18px;
+	font-family: helvetica;
+	top: 300px;
+	left: 130px;
+	position: relative;
+	float: top;
+	line-height: 40px;
 }
 
 .exercise{
-	color: #fcebb7;
-	font-size: 20px;
-	margin-top: 50px;
-	margin-left: 70px;
+	color: #6712e7;
+	font-size: 24px;
+	top: 290px;
+	left: 150px;
 	position: relative;
 	font-family: helvetica;
 }
 
-.order{
-	color: #fcb7c9;
-	font-size: 16px;
-	font-family: helvetica;
-	margin-left: 50px;
-
-}
-
 .projects{
-	color: #fcebb7;
-	font-size: 20px;
+	color: #6712e7;
+	font-size: 24px;
 	font-family: helvetica;
 	float: right;
-	margin-left: 340px;
-	margin-top: -240px;
+	top: 270px;
+	left: 600px;
 	position: absolute;
 }
 
-.style{
-	color: #e9829c;
-	font-size: 16px;
+.project1{
+	color: #974cbd;
+	font-size: 18px;
 	font-family: helvetica;
 	text-decoration: underline;
 	float: right;
-	margin-left: 300px;
-	margin-top: -215px;
+	top: 350px;
+	left: 640px;
 	position: absolute;
 }
 
-.portfolio{
-	color: #e9829c;
-	font-size: 16px;
+.project2{
+	color: #974cbd;
+	font-size: 18px;
 	font-family: helvetica;
 	text-decoration: underline;
-	float: right;
-	margin-left: 300px;
-	margin-top: -415px;
+	top: 395px;
+	left: 640px;
 	position: absolute;
 }
 
