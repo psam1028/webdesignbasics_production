@@ -1,0 +1,48 @@
+/*header*/
+header {
+	width: 800px;
+	margin: 40px auto;
+}
+
+header h1 {
+	text-align: center;
+	font: 100 60px/1.5 'Megrim', cursive;;
+	
+}
+
+header p {
+	font: 100 15px/1.5 'Raleway', Arial, sans-serif;
+	text-align: justify;
+}
+#bulletpoint{
+	float:left;
+	width:2.5%;
+	height:2.5%;
+}
+.img{
+	width: 800px;
+	margin: 40px auto;
+}
+
+#one{
+	width:50%;
+	margin-left:40px;
+	position:relative;
+	float:left;
+}
+
+#two{
+	width:30%;
+	margin:5px;
+	float:left;
+}
+#three{
+	width:30%;
+	margin:5px;
+	float:left;
+}
+#four{
+	width:30%;
+	margin:5px;
+	float:left;
+}
