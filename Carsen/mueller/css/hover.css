@@ -78,15 +78,15 @@ footer{
 	font-family: Arial;
 	font-size: 400px;
 	font-color: #74ab96;
-	/*transition-property: font-color;
+	transition-property: font-color;
 	transition-duration: 3s;
 	transition-timing-function: ease-in;
-	transition-delay: 1.5s;*/
+	transition-delay: 1.5s;
 }
 
-/*#dertext:hover {
+#dertext:hover {
 	color: #74ab96;
-}*/
+}
 
 #filmbox{
 	width: 1545px;
@@ -103,12 +103,12 @@ footer{
 	font-family: Arial;
 	font-size: 400px;
 	font-color: #fff;
-	/*transition-property: font-color;
+	transition-property: font-color;
 	transition-duration: 3s;
 	transition-timing-function: ease-in;
-	transition-delay: 1.5s;*/
+	transition-delay: 1.5s;
 }
 
-/*#filmtext:hover {
+#filmtext:hover {
 	color: #fff;
-}*/
+}
