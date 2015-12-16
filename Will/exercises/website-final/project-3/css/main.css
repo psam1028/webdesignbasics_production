@@ -1,0 +1,49 @@
+
+body {
+	background-color: #66d9ff;
+}
+div:nth-child(1) {
+	background-color: #b38600;
+	height: 80%;
+	width: 60%;
+	position: absolute;
+	left: 20%;
+	top: 10%;
+}
+div:nth-child(2) {
+	background-color: #ff471a;
+	height: 70%;
+	width: 55%;
+	position: absolute;
+	left: 25%;
+	top: 10%;
+}
+#marque { 
+	height: 95%;
+	width: 70%;
+	position: relative;
+	top: 2.5%;
+	left: 15%;
+	background-color: #f2ffcc;
+}
+#img-container {
+	height: 70%;
+	width: 88%;
+	position: relative;
+	background-color: white;
+	top: 5%;
+	left: 6%;	
+}
+img {
+	height: 100%;
+}
+p {
+	font-size: 30px;
+	clear: both;
+	text-align: center;
+	word-spacing: 5px;
+	letter-spacing: 7px;
+	font-family: Gill Sans;
+	font-weight: 400;
+	color: #29a329;
+}
