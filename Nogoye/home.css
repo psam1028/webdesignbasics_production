@@ -1,0 +1,165 @@
+* {
+	width: 1010px;
+}
+
+
+#Logo {
+	width: 80px;
+	height: 80px;
+	position: fixed;
+	max-width: 100%;
+    height: auto;
+    margin: 10px 0px 0px 20px;
+}
+
+.headerbar{
+	width: 1068px;
+	height: 95px;
+	background-color: white;
+	opacity: 0.9;
+	position: fixed;
+	margin: -10px 0px 0px -10px;
+	overflow: hidden;
+}
+
+
+h2 {
+	font-family: Dolce Vita Light, sans-serif;
+	letter-spacing: 3px;
+	font-size: 25px;
+	float: right;
+	color: black;
+	margin: 40px 0px 0px 450px;
+	position: fixed;
+	text-decoration: none;
+}
+
+
+h3 {
+	font-family: Dolce Vita Light, sans-serif;
+	letter-spacing: 3px;
+	font-size: 25px;
+	float: right;
+	color: black;
+	margin: 40px 0px 0px 550px;
+	position: fixed;
+	text-decoration: none;
+}
+
+h4 {
+	font-family: Dolce Vita Light, sans-serif;
+	letter-spacing: 3px;
+	font-size: 12px;
+	float: right;
+	color: black;
+	margin: 40px 0px 0px 800px;
+	position: fixed;
+	text-decoration: none;
+}
+
+h5 {
+	font-family: Dolce Vita Light, sans-serif;
+	letter-spacing: 3px;
+	font-size: 12px;
+	float: right;
+	color: black;
+	margin: 53px 0px 0px 800px;
+	position: fixed;
+	text-decoration: none;
+}
+
+#Alliance {
+	width: 340px;
+	height: 100px;
+	margin: 200px 0px 0px -10px;
+	max-width: 100%;
+    height: auto;
+}
+
+#Roots 
+	{
+	width: 340px;
+	height: 100px;
+	margin: 200px 10px 0px 0px;
+	max-width: 100%;
+    height: auto;	
+}
+
+#SCS {
+	width: 340px;
+	height: 100px;
+	margin: 200px -10px 0px -8px;
+	max-width: 100%;
+    height: auto;
+}
+
+#FLYT {
+	width: 340px;
+	height: 100px;
+	margin: -5px -10px 0px -10px;
+	max-width: 100%;
+    height: auto;
+}
+
+#Celine 
+	{
+	width: 340px;
+	height: 100px;
+	margin: -5px 10px 0px 2px;
+	max-width: 100%;
+    height: auto;	
+}
+
+#TAID {
+	width: 340px;
+	height: 220px;
+	margin: -5px -10px 0px -18px;
+	max-width: 100%;
+	height: auto;
+}
+
+#Icon {
+	width: 340px;
+	height: 100px;
+	margin: -5px -10px 0px -10px;
+	max-width: 100%;
+    height: auto;
+}
+
+#EAT 
+	{
+	width: 340px;
+	height: 100px;
+	margin: -5px 10px 0px 2px;
+	max-width: 100%;
+    height: auto;	
+}
+
+#Beats {
+	width: 340px;
+	height: 220px;
+	margin: -7px -10px 0px -18px;
+	max-width: 100%;
+	height: auto;
+}
+
+h1 {
+	font-family: Dolce Vita Light, sans-serif;
+	letter-spacing: 3px;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	margin: 50px 0px 0px 0px;
+	text-decoration: none;
+}
+
+p {
+	font-family: Dolce Vita Light, sans-serif;
+	letter-spacing: 3px;
+	font-size: 25px bold;
+	color: black;
+	text-align: center;
+	margin: 20px 0px 0px 0px;
+	text-decoration: none;
+}
+
