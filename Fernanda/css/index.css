@@ -1,0 +1,42 @@
+html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: white;
+}
+
+body {
+	width: 80%;
+	margin: auto;
+	padding: 0;
+	background-color: #e6e6e6;
+}
+
+h1 {
+	font-family: Avenir Bold, sans-serif;
+	margin: auto;
+	text-align: center;
+}
+
+h3 {
+	font-family: Avenir Book, sans-serif;
+}
+
+#mainlist > li {
+	list-style-type: none;
+	margin-top: 60px;
+}
+
+a {
+	text-decoration: none;
+	color: #7a7a7a;
+}
+
+a:hover {
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+li {
+	font-family: Avenir Book, sans-serif;
+}
