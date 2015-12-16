@@ -1,0 +1,74 @@
+*{
+	font-family: Palatino;
+}
+
+html{
+	background-image: url(../img/background.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#header{
+	width: 100%;
+	background-color: black;
+	top fixed;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+	font-size: 3em;
+	padding: 1%;
+	color: white;
+	margin-top: 0%;
+}
+
+h2{
+	text-align: center;
+	margin-top: 25%;
+	font-size: 2em;
+	color: white;
+}
+
+li {
+    float: left;	
+}
+
+#menu {
+    display: block;
+    padding: 15px;
+	background-color: black;
+	width: 100%
+}
+
+ul{
+	list-style-type: none;
+	margin-left: 65%;
+	margin-top: -7%;
+}
+
+p{
+	margin-left: 65%;
+	margin-top: 25%;
+	font-size: 130%;
+}
+
+h3{
+	margin-left: 13%;
+	margin-top: 8%;
+	display: inline-block;
+}
+
+form{
+	margin-left: 10%;
+	color: white;
+	margin-top: 5%;
+}

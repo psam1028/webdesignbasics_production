@@ -1,0 +1,41 @@
+* {
+				background-color: orange;
+    }
+    p {
+        color: black;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: lighter;
+        width: 40%;
+        box-sizing: content-box;
+        margin: auto;
+    }
+    h1 {
+        color: black;
+        background-color: white;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: lighter;
+		font-size: 700%;
+        width: 60%;
+        margin-top: -1%;
+        margin: auto;
+    }
+    h3 {
+        color: black;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: bolder;
+    }
+    h4 {
+        color: black;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: bold;
+    }
+    ul {
+        color: black;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: lighter;
+        margin-left: 42%;
+    }

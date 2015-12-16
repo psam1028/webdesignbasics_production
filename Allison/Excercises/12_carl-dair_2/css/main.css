@@ -1,0 +1,105 @@
+    * {
+		background-color: orange;
+	}
+    p {
+        color: black;
+        text-align: left;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: lighter;
+        width: 75%;
+        box-sizing: content-box;
+        margin: auto;
+    }
+    h1 {
+        color: black;
+        background-color: white;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: lighter;
+		font-size: 800%;
+        width: 80%;
+        margin: auto;
+        margin-top: 8%;
+    }
+    h3 {
+        color: black;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: bolder;
+    }
+    h4 {
+        color: black;
+        text-align: center;
+		font-family: "helvetica", "arial", "sans-serif";
+		font-weight: bold;
+    }
+    ol {
+        color: black;
+        text-align: left;
+        font-family: "helvetica", "arial", "sans-serif";
+        font-weight: lighter;
+        width: 900px;
+        box-sizing: content-box;
+        margin: auto;
+    }    
+    .image{
+        margin: auto;
+        width: 40%;
+    }
+    .image img{
+        max-width: 100%;
+    }
+    @media (min-width: 500px) and (max-width: 600px) {
+        h1 {
+          color: fuchsia;
+        }
+
+        .desc:after {
+        }
+    }
+    @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+        * {
+        background-color: orange;
+    }
+    p {
+        color: black;
+        text-align: left;
+        font-family: "helvetica", "arial", "sans-serif";
+        font-weight: lighter;
+        width: 75%;
+        box-sizing: content-box;
+        margin: auto;
+    }
+    h1 {
+        color: black;
+        background-color: white;
+        text-align: center;
+        font-family: "helvetica", "arial", "sans-serif";
+        font-weight: lighter;
+        font-size: 800%;
+        width: 80%;
+        margin: auto;
+        margin-top: 8%;
+    }
+    h3 {
+        color: black;
+        text-align: center;
+        font-family: "helvetica", "arial", "sans-serif";
+        font-weight: bolder;
+    }
+    h4 {
+        color: black;
+        text-align: center;
+        font-family: "helvetica", "arial", "sans-serif";
+        font-weight: bold;
+    }
+    ol {
+        color: black;
+        text-align: left;
+        font-family: "helvetica", "arial", "sans-serif";
+        font-weight: lighter;
+        width: 900px;
+        box-sizing: content-box;
+        margin: auto;
+    }   
+}

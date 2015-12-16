@@ -1,0 +1,160 @@
+*{
+	font-family: Myriad Pro;
+	color: black;
+}
+
+html  { 
+    background: url(../img/left_side.svg) no-repeat fixed, url(../img/right_side.svg) no-repeat top right fixed;
+    background-size: container;
+}
+
+h1{
+	font-size: 3em;
+	padding-left: 2%;
+	letter-spacing: 8px;
+}
+
+li {
+    float: left;
+    margin-top: -2%;
+}
+
+a {
+    display: block;
+    font-size: 120%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+	position: relative;
+}
+
+p{
+	margin: auto;
+	text-align: left;
+	font-size: 110%;
+	width: 50%;
+}
+
+#mywork{
+	text-align: center;
+	margin-top: 12%;
+	font-size: 2em;
+}
+
+.menu {
+    display: block;
+    padding: 15px;
+    letter-spacing: 3px;
+}
+
+#divider{
+	width: 75%;
+	height: 2px;
+	background-color: #bdbbbb;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h3{
+	margin: auto;
+	text-align: center;
+	width: 30%;
+	letter-spacing: 2px;
+	padding-top: 2%;
+}
+
+h2{
+	margin: auto;
+	text-align: center;
+	width: 30%;
+	letter-spacing: 2px;
+	padding-top: 3%;
+}
+
+#Infographics{
+	margin-top: 60%;
+}
+
+#infoh{
+	margin: auto;
+	text-align: center;	
+}
+
+#piece_1{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 30%;
+	height: 90%;
+}
+
+#piece_1a{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 30%;
+	height: 120%;
+}
+
+#piece_2{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 50%;
+	height: 60%;
+}
+
+#piece_3{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 30%;
+	height: 55%;	
+}
+
+iframe{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#piece_5{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 30%;
+	height: 60%;	
+}
+
+#piece_7{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 50%;
+	height: 55%;
+}
+
+#piece_7b{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding: 2%;
+	width: 10%;
+	height: 90%;	
+}

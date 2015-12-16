@@ -1,0 +1,79 @@
+*{
+	font-family: Palatino;
+}
+
+html{
+	background-image: url(../img/background.svg);
+	background-size: contain;	
+}
+
+#header{
+	width: 100%;
+	background-color: black;
+	top fixed;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+	font-size: 3em;
+	padding: 1%;
+	color: white;
+}
+
+h2{
+	text-align: center;
+	margin-top: 25%;
+	font-size: 2em;
+	color: white;
+}
+
+li {
+    float: left;	
+}
+
+.menu {
+    display: block;
+    padding: 15px;
+	background-color: black;
+	width: 100%
+}
+
+ul{
+	list-style-type: none;
+	margin-left: 65%;
+	margin-top: -7%;
+}
+
+p{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-size: 130%;
+	color: white;
+	width: 40%;
+}
+
+h3{
+	margin-left: 13%;
+	margin-top: 8%;
+	display: inline-block;
+}
+
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 30%;
+	height: 40%;
+	padding: 2%;	
+}
+

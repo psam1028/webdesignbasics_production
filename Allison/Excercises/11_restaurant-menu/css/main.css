@@ -1,0 +1,32 @@
+caption{
+	font-family: "Papyrus" "Courier" "Serif";
+	font-weight: 800;
+	font-size: 130%;
+}
+th{
+	text-align: left;
+}
+td{
+	text-align: left;
+	font-family: "Serif";
+}
+.typepiz{
+	font-family: "Papyrus" "Courier" "Serif";
+}
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px 15px;
+}
+th {
+  font-weight: bold;
+}
+tbody tr:nth-child(even) {
+  background: #d84a57;
+}
+thead {
+  background: #d84a57;
+  color: #fff;
+}

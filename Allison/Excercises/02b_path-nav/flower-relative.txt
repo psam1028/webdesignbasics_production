@@ -1,0 +1,23 @@
+
+File A ----> File B				address
+
+
+index.html ----> hanzel.html
+
+__________________________vicepresident/hanzel.html________________________
+
+petal.html ----> main.css
+
+________________________../../../css/main.css______________________________
+
+normalize.css ----> sprite.png
+
+________________________../img/sprite.png__________________________________
+
+order_form.html ----> index.html
+
+____________________________index.html_____________________________________
+
+scripts.js ----> goldilocks.html
+
+____________________../about/advisory/chair/goldilocks.html________________

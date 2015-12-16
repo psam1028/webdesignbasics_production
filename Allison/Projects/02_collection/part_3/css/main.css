@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+	margin-top: 15%;
+	font-size: 350%;
+}
+
+h3{
+	display: inline;
+	padding: 17%;
+	font-size: 200%;
+}
+
+a {
+    display: block;
+    font-size: 140%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+html  { 
+    background: url(../img/left_side.svg) no-repeat fixed, url(../img/right_side.svg) no-repeat top right fixed;
+    background-size: container;
+}
+
+#name1{
+	font-family: Palatino;
+	color: white;
+}
+
+#name2{
+	font-family: Myriad Pro;
+}
+
+.business{
+	font-family: Palatino;
+	color: white;
+	margin-left: 11%;
+	margin-top: -3%;
+}
+
+.design{
+	font-family: Myriad Pro;
+	color: black;
+	margin-top: -4%;
+	margin-left: 57%;
+}
