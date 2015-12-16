@@ -78,4 +78,19 @@ h4 {
 
 }
 
+.photo {
+  width: 100%;
+  padding: 10px;
+}
+  img {
+  	 max-width: 100%;
+  }
 
+
+
+@media screen and (max-device-width: 480px) {
+	h1 {
+		color: blue; 
+	} 
+	}
+}  

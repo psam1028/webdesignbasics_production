@@ -1,0 +1,52 @@
+table {
+	border-collapse: collapse;
+}
+h1 {
+	font-family: Helvetica;
+	font-size: 20px;
+
+}
+tr {
+	font-family: Helvetica;
+	font-size: 15px;
+}
+
+td, tr {
+
+	padding: 1rem;
+}
+
+thead{
+  background-color: #FFDAB9;
+}
+
+
+.cheese {
+ background: #D8BFD8;
+}
+.cheese2 {
+ background: #D8BFD8;
+}
+.pepperoni {
+ background: #FA8072;
+}
+.pepperoni2 {
+ background: #FA8072;
+}
+
+.veg {
+ background: #D8BFD8;
+}
+
+.veg2 {
+ background: #D8BFD8;
+}
+.Hawaiian {
+ background: #FA8072;
+}
+.Hawaiian2 {
+ background: #FA8072;
+}
+b {
+	font-size: 10px;
+}

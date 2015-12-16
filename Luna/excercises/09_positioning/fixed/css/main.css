@@ -1,0 +1,82 @@
+.fixed {
+border: 1px solid white;
+width: 800px;
+height: 800px;
+padding: auto;
+}
+
+.red {
+margin-left: 40px;
+margin-bottom: 200px;
+position: fixed;
+background-color: red;
+float: left;
+width: 90px;
+height: 55px;
+}
+
+.red1 {
+margin-left: 100px;
+margin-top: 60px;
+position: fixed;
+background-color: red;
+float: left;
+width: 25px;
+height: 400px;
+}
+
+.red2 {
+margin-left:  100px;
+margin-top: 600px;
+position: fixed;
+background-color: red;
+float: left;
+width: 55px;
+height: 60px;
+}
+
+.red3 {
+margin-left: 400px;
+margin-top: 550px;
+position: fixed;
+background-color: red;
+float: left;
+width: 300px;
+height: 80px;
+}
+
+.red4 {
+margin-left: 600px;
+margin-top: 900px;
+position: fixed;
+background-color: red;
+float: left;
+width: 40px;
+height: 40px;
+}
+
+.red5 {
+margin-left: 800px;
+margin-top: 100px;
+position: fixed;
+background-color: red;
+float: left;
+width: 30px;
+height: 80px;
+z-index: 100;
+}
+
+.red6 {
+margin-left: 300px;
+margin-top: 25px;
+position: fixed;
+background-color: red;
+float: left;
+width: 3px;
+height: 8px;
+}
+
+p {
+	position: absolute;
+	z-index: 10;
+}

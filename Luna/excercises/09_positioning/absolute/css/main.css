@@ -1,0 +1,137 @@
+.absolute {
+border: 1px solid white;
+width: 800px;
+height: 800px;
+padding: auto;
+}
+
+.red {
+margin-left: 40px;
+margin-bottom: 200px;
+position: absolute;
+background-color: red;
+float: left;
+width: 35px;
+height: 80px;
+}
+
+.red1 {
+margin-left: 100px;
+margin-top: 60px;
+position: absolute;
+background-color: red;
+float: left;
+width: 30px;
+height: 80px;
+}
+
+.red2 {
+margin-left:  10px;
+margin-top: 600px;
+position: absolute;
+background-color: red;
+float: left;
+width: 330px;
+height: 40px;
+}
+
+.red3 {
+margin-left: 400px;
+margin-top: 350px;
+position: absolute;
+background-color: red;
+float: left;
+width: 3px;
+height: 80px;
+}
+
+.red4 {
+margin-left: 600px;
+margin-top: 900px;
+position: absolute;
+background-color: red;
+float: left;
+width: 3px;
+height: 8px;
+}
+
+.red5 {
+margin-left: 800px;
+margin-top: 100px;
+position: absolute;
+background-color: red;
+float: left;
+width: 40px;
+height: 20px;
+}
+
+.red6 {
+margin-left: 80px;
+margin-top: 25px;
+position: absolute;
+background-color: red;
+float: left;
+width: 80px;
+height: 30px;
+}
+
+.red7 {
+margin-left: 400px;
+margin-top: 250px;
+position: absolute;
+background-color: red;
+float: left;
+width: 10px;
+height: 15px;
+}
+
+.red8 {
+margin-left: 600px;
+margin-top: 40px;
+position: absolute;
+background-color: red;
+float: left;
+width: 15px;
+height: 35px;
+}
+
+.red9 {
+margin-left: 80px;
+margin-top: 400px;
+position: absolute;
+background-color: red;
+float: left;
+width: 5px;
+height: 25px;
+}
+
+.red10 {
+margin-left: 4px;
+margin-top: 30px;
+position: absolute;
+background-color: red;
+float: left;
+width: 60px;
+height: 60px;
+}
+
+.red11 {
+margin-left: 500px;
+margin-top: 300px;
+position: absolute;
+background-color: red;
+float: left;
+width: 40px;
+height: 40px;
+}
+
+.red12 {
+margin-left: 100px;
+margin-top: 100px;
+position: absolute;
+background-color: red;
+float: left;
+width: 30px;
+height: 80px;
+}
+
