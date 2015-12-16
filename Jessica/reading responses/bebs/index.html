@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+	<script src="jquery.js"></script>
+	<link rel="stylesheet" href="css/main.css">
+	<title>reading | the museum interface</title>    
+
+</head>
+<body>
+
+	<div id = "title" style = "position: fixed; "><img src = "imgs/_16.png"/></div>
+
+	<div class = "slides">
+		<img src = "imgs/_1.png"/>
+		<img src = "imgs/_2.png"/>
+		<img src = "imgs/_3.png"/>
+		<img src = "imgs/_4.png"/>
+		<img src = "imgs/_5.png"/>
+		<img src = "imgs/_6.png"/>
+		<img src = "imgs/_7.png"/>
+		<img src = "imgs/_8.png"/>
+		<img src = "imgs/_9.png"/>
+		<img src = "imgs/_10.png"/>
+		<img src = "imgs/_11.png"/>
+		<img src = "imgs/_12.png"/>
+		<img src = "imgs/_13.png"/>
+		<img src = "imgs/_14.png"/>
+		<img src = "imgs/_17.png"/>
+		<img src = "imgs/_18.png"/>
+		<img src = "imgs/_19.png"/>
+		<img src = "imgs/_20.png"/>
+		<img src = "imgs/_21.png"/>
+		<img src = "imgs/_22.png"/>
+		<img src = "imgs/_23.png"/>
+	</div>
+
+<script>
+
+$("img").each(function(){
+	var x = Math.random()*$(window).width();
+	var y = Math.random()*$(window).height();
+	var z = Math.random()*$(window).height()*2;
+	$("#title").show();
+	$(this).css({
+		"top": y + "px",
+		"left": x + "px",
+		"transform": "translateZ(-" +  z + "px) translateX(-50%) translateY(-50%)"
+	});
+	
+	console.log(z)
+});
+
+$("img").click(function() {
+    $(this).hide()
+    	$(this).next().show();
+});
+
+
+$(window).mousemove(function(e){
+
+	var perX = (e.pageX/$(window).width()*-100) + 50,
+		perY = (e.pageY/$(window).height()*-100) + 50;
+
+	$(".slides").css({
+		"transform":"rotateX("+perX/2+"deg) rotateY("+perY/5+"deg)"
+	});
+})
+
+</script>
+
+
+</body>
+</html>
