@@ -1,0 +1,126 @@
+.row{
+	height: 106px;
+	width: 306px;
+	float: left;
+}
+
+.redbox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	background-color: red;
+	margin: 1px;
+}
+
+.orangebox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	background-color: orange;
+	margin: 101px;
+}
+
+.yellowbox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	background-color: yellow;
+	margin: 201px;
+}
+
+.greenbox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	background-color: green;
+	margin: 301px;
+}
+
+.bluebox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	background-color: blue;
+	margin: 401px;
+}
+
+.purplebox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	background-color: purple;
+	margin: 501px;
+}
+
+.textbox{
+	height: 100px;
+	width: 100px;
+	float: left;
+	position: fixed;
+	margin-left: 101px;
+}
+
+.yellowtext{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 201px;
+	z-index: 10;
+}
+
+.orangetext{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 101px;
+}
+
+.greentext{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 301px 0px 0px 301px;
+}
+
+.greenanswer{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 621px 0px 0px 301px;
+}
+
+.bluetext{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 501px 401px 401px 401px;
+	z-index: -10;
+}
+
+.blueabove{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 301px 401px 401px 401px;
+}
+
+.purpletext{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	margin: 501px;
+	z-index: 15;
+}
+
+
+.container{
+	height: 900px;
+	width: 900px;
+	overflow: auto;
+}
