@@ -6,7 +6,7 @@
         <title>Tatiana Design</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="Titiana.css">
+        <link type="text/css" rel="stylesheet" href="css/Titiana.css">
         <link href='https://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
     <div id="container">
     	<header>

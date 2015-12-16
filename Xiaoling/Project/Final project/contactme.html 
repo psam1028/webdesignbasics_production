@@ -6,24 +6,24 @@
         <title>Contact Me</title> 
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="Contactme.css">
+        <link type="text/css" rel="stylesheet" href="css/Contactme.css">
         <link href='https://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
         <body>
         	<div id="left">
                 <nav class="side-menu">
                     <ul>
                     	<li>
-                    		<a href="file:///Users/xiaolingchen/Desktop/Portfolio%20Homepage.html"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Home </li>
+                    		<a href="Portfolio_Homepage.html"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Home </li>
                           </a>
                         </li>
                         <li>
-                            <a href="file:///Users/xiaolingchen/Desktop/work.html" class="active"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Works </a>
+                            <a href="work.html" class="active"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Works </a>
                         </li>
                         <li>
-                            <a href="file:///Users/xiaolingchen/Desktop/about%20me.html"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> About me </a>
+                            <a href="about_me.html"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> About me </a>
                         </li>
                         <li>
-                            <a href="file:///Users/xiaolingchen/Desktop/contactme.html%20"> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Contact </a>
+                            <a href="contactme.html "> <img id="bulletpoint"src="http://i411.photobucket.com/albums/pp199/chenx552/icons_zpsborwckvr.png" border="0"/> Contact </a>
                         </li>
                     </ul>
                 </nav>
