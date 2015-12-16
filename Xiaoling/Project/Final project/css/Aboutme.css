@@ -49,12 +49,12 @@ a:hover{
     color: #777;
 }
 ul{
-  display:flex;
-  justify-content: center;
-  flex-direction: column;
+  display:-webkit-flex;
+  -webkit-justify-content: center;
+  -webkit-flex-direction: column;
   height:700px;
   line-height: 50px;
-  list-style-type:none
+  list-style-type:none;
   text-align:left;
  }
 li{
