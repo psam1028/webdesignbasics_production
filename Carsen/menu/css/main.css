@@ -1,0 +1,16 @@
+th{
+	font-family: Georgia;
+	font-size: 16px;
+	color: red;
+}
+
+td{
+	font-family: Georgia;
+	font-size: 12px;
+	color: #000;
+	border: 1px solid #333;
+}
+
+td:nth-child(2n){
+	background-color: #F8FAFA;
+}
