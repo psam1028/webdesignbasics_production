@@ -1,0 +1,65 @@
+body{
+	background-color: black;
+}
+
+
+h1{
+	color: #b7e4fc;
+	font-family: didot;
+	left: 40%;
+	font-size: 70px;
+	position: absolute;
+	top: 20px;
+}
+
+li{
+	color: #d99ef7;
+	font-size: 18px;
+	font-family: helvetica;
+	top: 300px;
+	left: 130px;
+	position: relative;
+	float: top;
+	line-height: 40px;
+}
+
+.exercise{
+	color: #6712e7;
+	font-size: 24px;
+	top: 290px;
+	left: 150px;
+	position: relative;
+	font-family: helvetica;
+}
+
+.projects{
+	color: #6712e7;
+	font-size: 24px;
+	font-family: helvetica;
+	float: right;
+	top: 270px;
+	left: 600px;
+	position: absolute;
+}
+
+.project1{
+	color: #974cbd;
+	font-size: 18px;
+	font-family: helvetica;
+	text-decoration: underline;
+	float: right;
+	top: 350px;
+	left: 640px;
+	position: absolute;
+}
+
+.project2{
+	color: #974cbd;
+	font-size: 18px;
+	font-family: helvetica;
+	text-decoration: underline;
+	top: 395px;
+	left: 640px;
+	position: absolute;
+}
+

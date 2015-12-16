@@ -1,0 +1,246 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 75%;
+    margin: auto;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header a img {
+    width: 30%;
+}
+
+#wrap   {
+    width: 100%; /* Spans the width of the page */
+    height: 50px; 
+    margin: 0; /* Ensures there is no space between sides of the screen and the menu */
+    z-index: 99; /* Makes sure that your menu remains on top of other page elements */
+    position: fixed; 
+    top: 270px;
+}
+
+.navbar {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    position: absolute; /* Ensures that the menu doesn’t affect other elements */
+}
+
+.navbar li  {
+            height: auto;
+            width: 150px;  /* Each menu item is 150px wide */
+            text-align: center;  /* All text is placed in the center of the box */
+            list-style: none;  /* Removes the default styling (bullets) for the list */
+            padding: 0;
+            margin: 0;
+}
+
+.navbar a   {                           
+        padding: 18px 0;  /* Adds a padding on the top and bottom so the text appears centered vertically */
+        text-decoration: none;  /* Removes the default hyperlink styling. */
+        color: black; /* Text color is white */
+        display: block;
+        font-family: Gotham Bold, Avenir Bold, sans-serif;
+}
+
+ .navbar li:hover a:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+ }
+
+h1 {
+    font-family: Gotham Bold, Avenir Bold, sans-serif;
+    font-size: 21px;
+    position: relative;
+    left: 20%;
+    top: 100px;
+}
+
+p {
+    position: relative;
+    font-family: Bodoni 72, serif;
+    font-size: 14px;
+    left: 20%;
+    top: 110px;
+    min-width: 25rem;
+    max-width: 85rem;
+    width: 25rem;
+}
+
+form {
+    /* Just to center the form on the page */
+    margin: 0 auto;
+    width: 40%;
+    /* To see the outline of the form */
+    padding: 1em;
+    float: right;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+label {
+    /* To make sure that all labels have the same size and are properly aligned */
+    display: block;
+    width: 200px;
+    text-align: left;
+    margin-bottom: 0.5em;
+    font-family: Gotham Thin, Avenir, sans-serif;
+    font-size: 16px;
+}
+
+input, textarea {
+    /* To make sure that all text fields have the same font settings
+       By default, textareas have a monospace font */
+    font: 1em sans-serif;
+
+    /* To give the same size to all text field */
+    width: 400px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    /* To harmonize the look & feel of text field border */
+    border: 1px solid #999;
+}
+
+input:focus, textarea:focus {
+    /* To give a little highlight on active elements */
+    border-color: #000;
+}
+
+textarea {
+    /* To properly align multiline text fields with their labels */
+    vertical-align: top;
+
+    /* To give enough room to type some text */
+    height: 5em;
+
+    /* To allow users to resize any textarea vertically
+       It does not work on every browsers */
+    resize: vertical;
+}
+
+button {
+    text-decoration: none;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-family: Gotham, Avenir, sans-serif;
+    border: none;
+    box-shadow: 5px 5px 5px #888;
+    -webkit-box-shadow: 5px 5px 5px #888;
+    -moz-box-shadow: 5px 5px 5px #888;;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-family: Gotham, Avenir, sans-serif;
+
+}
+
+#resume {
+    position: relative;
+    left: 20%;
+    top: 150px;
+}
+
+@-webkit-keyframes shake {
+    0% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
+    10% { -webkit-transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { -webkit-transform: translate(-3px, 0px) rotate(1deg); }
+    30% { -webkit-transform: translate(0px, 2px) rotate(0deg); }
+    40% { -webkit-transform: translate(1px, -1px) rotate(1deg); }
+    50% { -webkit-transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { -webkit-transform: translate(-3px, 1px) rotate(0deg); }
+    70% { -webkit-transform: translate(2px, 1px) rotate(-1deg); }
+    80% { -webkit-transform: translate(-1px, -1px) rotate(1deg); }
+    90% { -webkit-transform: translate(2px, 2px) rotate(0deg); }
+    100% { -webkit-transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.button:hover {
+    cursor: pointer;
+    -webkit-animation-name: shake;
+    -webkit-animation-duration: 0.8s;
+    -webkit-transform-origin:50% 50%;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+
+.footer {
+    box-sizing: border-box;
+    height: 150px;
+    background-color: black;
+    position: relative;
+    clear: both;
+    top: 150px;
+
+}
+
+.insta {
+    float: left;
+    width: 2%;
+    position: relative;
+    margin-left: 2%;
+    top: 120px;
+    left: 12%;
+    
+}
+
+.facebook {
+    float: left;
+    width: 2.1%;
+    position: relative;
+    margin-left: 2%;
+    top: 120px;
+    left: 12%;
+    
+}
+
+ .linkedin {
+    float: left;
+    width: 1.9%;
+    position: relative;
+    margin-left: 2%;
+    top: 120px;
+    left: 12%;
+}
+
+.insta img, .facebook img, .linkedin img {
+    max-width: 100%;
+}
+
+.insta:hover, .facebook:hover, .linkedin:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

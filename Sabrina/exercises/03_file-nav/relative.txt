@@ -1,0 +1,2 @@
+index.html --> image.jpg= ://://
+index.html --> jquery-2.1.1.min.js= 

@@ -1,0 +1,239 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	width: 75%;
+	margin: auto;
+}
+
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+header a img {
+	width: 23%;
+}
+
+#wrap	{
+	width: 100%; /* Spans the width of the page */
+	height: 50px; 
+	margin: 0; /* Ensures there is no space between sides of the screen and the menu */
+	z-index: 99; /* Makes sure that your menu remains on top of other page elements */
+	position: fixed; 
+	top: 270px;
+}
+
+.navbar	{
+	height: 50px;
+    padding: 0;
+	margin: 0;
+	position: absolute; /* Ensures that the menu doesn’t affect other elements */
+}
+
+.navbar li 	{
+			height: auto;
+			width: 150px;  /* Each menu item is 150px wide */
+			text-align: center;  /* All text is placed in the center of the box */
+			list-style: none;  /* Removes the default styling (bullets) for the list */
+			padding: 0;
+			margin: 0;
+}
+
+.navbar a	{							
+		padding: 18px 0;  /* Adds a padding on the top and bottom so the text appears centered vertically */
+		text-decoration: none;  /* Removes the default hyperlink styling. */
+		color: black; /* Text color is white */
+		display: block;
+		font-family: Gotham Bold, Avenir Bold, sans-serif;
+}
+
+.navbar li:hover {
+ 	opacity: 0.6;
+    filter: alpha(opacity=60);
+ }
+
+.futura1  {
+	box-sizing: border-box;
+	width: 16%;
+	left: 45%;
+	position: absolute;
+	top: 270px;
+}
+
+.futura1 img {
+	max-width: 100%;
+}
+
+p {
+	font-family: Bodoni 72, serif;
+	font-size: 16px;
+	min-width: 35%;
+	max-width: 85%;
+	width: 50%;
+	position: relative;
+	text-align: center;
+	left: 28%;
+	top: 260px;
+}
+
+#inspiration {
+	font-family: Gotham Thin, Avenir, sans-serif;
+	font-size: 16px;
+	float: right;
+	position: relative;
+	top: 370px;
+	border-bottom: 1px solid silver;
+	width: 80%;
+	text-align: right;
+}
+
+.one {
+	width: 16%;
+	position: absolute;
+	top: 680px;
+	left: 28%;
+}
+
+.one img {
+	max-width: 100%;
+}
+
+.two {
+	width: 18%;
+	position: absolute;
+	top: 680px;
+	left: 48%;
+}
+
+.two img {
+	max-width: 100%;
+}
+
+.three {
+	width: 17.5%;
+	position: absolute;
+	top: 680px;
+	left: 70%;
+}
+
+.three img {
+	max-width: 100%;
+}
+
+#final {
+	position: relative;
+	top: 960px;
+	font-family: Gotham Thin, Avenir, sans-serif;
+	float: right;
+	border-bottom: 1px solid silver;
+	width: 80%;
+	text-align: right;
+}
+
+.futura2 {
+	width: 35%;
+	position: absolute;
+	top: 1270px;
+	left: 40%;
+}
+
+.futura2 img {
+	max-width: 100%;
+}
+
+button {
+    padding: 20px;
+    background-color: black;
+    border: none;
+    box-shadow: 5px 5px 5px #888;
+    -webkit-box-shadow: 5px 5px 5px #888;
+    -moz-box-shadow: 5px 5px 5px #888;
+    max-width: 100%;
+}
+
+button a {
+	text-decoration: none;
+	color: white;
+	font-family: Gotham, Avenir, sans-serif;
+}
+
+.button {
+	position: relative;
+	float: right;
+	top: 2070px;
+	left: 60%;
+}
+
+@-webkit-keyframes shake {
+    0% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
+    10% { -webkit-transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { -webkit-transform: translate(-3px, 0px) rotate(1deg); }
+    30% { -webkit-transform: translate(0px, 2px) rotate(0deg); }
+    40% { -webkit-transform: translate(1px, -1px) rotate(1deg); }
+    50% { -webkit-transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { -webkit-transform: translate(-3px, 1px) rotate(0deg); }
+    70% { -webkit-transform: translate(2px, 1px) rotate(-1deg); }
+    80% { -webkit-transform: translate(-1px, -1px) rotate(1deg); }
+    90% { -webkit-transform: translate(2px, 2px) rotate(0deg); }
+    100% { -webkit-transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.button:hover {
+    cursor: pointer;
+    -webkit-animation-name: shake;
+    -webkit-animation-duration: 0.8s;
+    -webkit-transform-origin:50% 50%;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+
+.footer {
+	box-sizing: border-box;
+	height: 150px;
+	width: 100%;
+	background-color: black;
+	position: relative;
+	top: 2220px;
+	clear: both;
+}
+
+.insta {
+	float: left;
+	width: 2%;
+	position: relative;
+	margin-left: 2%;
+	left: 12%;
+	top: 114px;
+	
+}
+
+.facebook {
+	float: left;
+	width: 2.1%;
+	position: relative;
+	margin-left: 2%;
+	left: 12%;
+	top: 114px;
+}
+
+ .linkedin {
+	float: left;
+	width: 1.9%;
+	position: relative;
+	margin-left: 2%;
+	left: 12%;
+	top: 114px;
+}
+
+.insta img, .facebook img, .linkedin img {
+	max-width: 100%;
+}
+
+.insta:hover, .facebook:hover, .linkedin:hover {
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}

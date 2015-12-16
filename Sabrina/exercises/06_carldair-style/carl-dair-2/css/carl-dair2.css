@@ -1,0 +1,108 @@
+
+h1{
+	color: gray;
+	font-family: helvetica;
+	text-align: center;
+	font-size: 32px;
+	position: relative;
+	padding: 30px;
+	text-shadow: 1px 1px blue;
+}
+
+h2{
+	color: gray;
+	text-align: center;
+	font-size: 24px;
+	text-shadow: 1px 1px blue;
+}
+h3{
+	color: gray;
+	text-align: center;
+	font-size: 18px;
+	text-shadow: 1px 1px blue;
+}
+h4{
+	color: gray;
+	text-align: left;
+	text-decoration: underline;
+	text-shadow: 1px 1px blue;
+}
+h6{
+	font-family: serif;
+	color: black;
+	text-align: center;
+	font-size: 11px;
+	text-shadow: 1px 1px blue;
+}
+
+p{
+	color: gray;
+	font-family: serif;
+	font-size: 16px;
+	text-align: justify;
+	line-height: 20px;
+	text-shadow: 1px 1px blue;
+}
+
+p:nth-of-type(1){
+	text-align: center;
+	color: gray;
+	font-size: 18px;
+	position: relative;
+	text-shadow: 1px 1px blue;
+}
+p:nth-of-type(13){
+	text-align: justify;
+	color: gray;
+	font-size: 14px;
+	line-height: 20px;
+	text-shadow: 1px 1px blue;
+}
+
+
+.figure{
+	width: 50%;
+	height: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.figure img{
+	max-width: 100%;
+}
+
+ol{
+	color: gray;
+	font-size: 14px;
+	text-shadow: 1px 1px blue;
+}
+
+
+body{
+	background-color: #bdccf5;
+}
+.fluid{
+		  position: absolute; 
+		  top: 0; 
+		  left: 0; 
+		  right: 0; 
+		  bottom: 0; 
+		  margin: auto; 
+		  min-width: 100%;
+		  min-height: 100%;
+		  z-index: -1;
+}
+
+.fluid img{
+	min-width: 200%;
+	max-width: 200%;
+	z-index: -1;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+.box{
+	height: 200px;
+	width: 25px;
+	position: relative;
+	float: left;
+	background-color: red;
+	margin: 0px 3px 0px 3px;
+}
+ #one{
+ 	margin-top: 5px;
+ }
+
+#two{
+ 	margin-top: 15px;
+ }
+
+ #three{
+ 	margin-top: 25px;
+ }
+
+#four{
+ 	margin-top: 35px;
+ }

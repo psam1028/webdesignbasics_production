@@ -1,0 +1,49 @@
+#box1{
+	width: 845px;
+	height: 100px;
+	background-color: red;
+	top: 0;
+	left: 0;
+	position: absolute;
+}
+#box2{
+	width: 845px;
+	height: 20px;
+	background-color: red;
+	top: 110px;
+	left: 0;
+	position: absolute;
+}
+
+#box3{
+	width: 275px;
+	height: 600px;
+	background-color: red;
+	top: 140px;
+	left: 0;
+	position: absolute;
+}
+#box4{
+	width: 275px;
+	height: 600px;
+	background-color: red;
+	top: 140px;
+	left: 285px;
+	position: absolute;
+}
+#box5{
+	width: 275px;
+	height: 600px;
+	background-color: red;
+	top: 140px;
+	left: 570px;
+	position: absolute;
+}
+#box6{
+	width: 845px;
+	height: 100px;
+	background-color: red;
+	top: 750px;
+	left: 0;
+	position: absolute;
+}

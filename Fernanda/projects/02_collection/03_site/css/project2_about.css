@@ -1,0 +1,152 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	width: 75%;
+	margin: auto;
+}
+
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+header a img {
+	width: 30%;
+}
+
+
+
+#wrap	{
+	width: 100%; /* Spans the width of the page */
+	height: 50px; 
+	margin: 0; /* Ensures there is no space between sides of the screen and the menu */
+	z-index: 99; /* Makes sure that your menu remains on top of other page elements */
+	position: fixed; 
+	top: 270px;
+}
+
+.navbar	{
+	height: 50px;
+    padding: 0;
+	margin: 0;
+	position: absolute; /* Ensures that the menu doesn’t affect other elements */
+}
+
+.navbar li 	{
+			height: auto;
+			width: 150px;  /* Each menu item is 150px wide */
+			text-align: center;  /* All text is placed in the center of the box */
+			list-style: none;  /* Removes the default styling (bullets) for the list */
+			padding: 0;
+			margin: 0;
+}
+
+.navbar a	{							
+		padding: 18px 0;  /* Adds a padding on the top and bottom so the text appears centered vertically */
+		text-decoration: none;  /* Removes the default hyperlink styling. */
+		color: black; /* Text color is white */
+		display: block;
+		font-family: Gotham Bold, Avenir Bold, sans-serif;
+}
+
+ .navbar li:hover a:hover {
+ 	opacity: 0.6;
+    filter: alpha(opacity=60);
+ }
+
+.text {
+	margin: auto;
+}
+.text h1 {
+	font-family: Gotham Bold, Avenir Bold, sans-serif;
+	font-size: 48px;
+	position: relative;
+	top: 85px;
+	left: 45%;
+}
+
+h1 + p {
+	font-family: Gotham Bold, Avenir Bold, sans-serif;
+	position: relative;
+	font-size: 40px;
+	left: 20%;
+	top: 55px;
+}
+
+.yellow {
+	color: #F0BF34;
+}
+
+p:not(.name) {
+	font-family: Bodoni 72; 
+	min-width: 30rem;
+	max-width: 85rem;
+	width: 30rem;
+	position: relative;
+	top: 150px;
+	left: 20%;
+	font-size: 14px;
+	margin-bottom: 10px;
+
+}
+
+ .selfie {
+ 	width: 25%;
+ 	position: relative;
+ 	float: right;
+ 	bottom: 50px;
+
+ }
+
+.selfie img {
+	max-width: 100%;
+	border-radius: 10%;
+}
+
+.footer {
+	position: relative;
+	clear: both;
+	height: 150px;
+	background-color: black;
+	top: 100px;
+}
+
+.insta {
+	float: left;
+	width: 2%;
+	position: relative;
+	margin-left: 2%;
+	top: 120px;
+	left: 12%;
+}
+
+.facebook {
+	float: left;
+	width: 2.1%;
+	position: relative;
+	margin-left: 2%;
+	top: 120px;	
+	left: 12%;
+}
+
+ .linkedin {
+	float: left;
+	width: 1.9%;
+	position: relative;
+	margin-left: 2%;
+	top: 120px;
+	left: 12%;
+}
+
+.insta img, .facebook img, .linkedin img {
+	max-width: 100%;
+}
+
+.insta:hover, .facebook:hover, .linkedin:hover {
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}

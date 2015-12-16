@@ -1,0 +1,122 @@
+header{
+    background-color: #000000;
+    width: 100%;
+    height: 80px;
+    margin: -10px 0px 0px -10px;
+    position: fixed;
+    float: left;
+}
+
+body{
+    background-color: #8a999f;
+}
+
+h1{
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+    color: #CDD2D0;
+    position: fixed;
+    margin: 15px 0px 0px 10px;
+}
+
+h2{
+    font-family: 'Gill Sans', Arial;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #CDD2D0;
+    text-align: right;
+    margin: 30px 20px 0px 0px;
+    float: right;
+}
+
+a:hover{
+    color: #D89D9C;
+}
+
+a{
+    color: #CDD2D0;
+    text-decoration: none;
+}
+
+#container{
+    margin: 83px 0px 0px 0px;
+    width: 76%;
+    height: 90%;
+    float: left;
+}
+
+.row{
+    width: 100%;
+    height: 30%;
+    margin: 9px 0px 0px 0px;
+    float: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    margin: 3px;
+    width: 40%;
+    height: 100%;
+}
+
+.imgvert{
+    margin: 3px;
+    width: 16.8%;
+    height: 100%;
+}
+
+.imgsquare{
+    margin: 3px;
+    width: 28%;
+    height: 100%;
+}
+
+.button{
+    width: 170px;
+    height: 170px;
+    border-radius: 100px;
+    background-color: #000000;
+    float: left;
+    margin: 103px 0px 0px 70px;
+    vertical-align: center;
+}
+
+#center1{
+    margin: 0px 50px 0px 60px;
+}
+
+#center2{
+    margin: 0px 100px 0px 100px;
+}
+
+h3{
+    font-family: 'Yellowtail', cursive;
+    font-size: 30px;
+    color: #D89D9C;
+    text-align: center;
+    line-height: 370%;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    float: right;
+    background: #000;
+}
+
+.dropdown .dropdown-menu {
+    list-style: none; 
+    width: 100%; 
+    padding: 5px 0px 0px 0px;
+    font-family: "Gill Sans", Arial;
+    font-size: 18px;
+    font-weight: lighter;
+    display: none;
+    top: 100%;
+    text-align: center;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}

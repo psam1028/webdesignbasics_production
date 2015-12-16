@@ -1,0 +1,367 @@
+
+/* this is the background color */
+
+#box1{
+	height: 880px;
+	width: 1400px;
+	background-color: red;
+	top:0;
+	left:0;
+	position: absolute;
+}
+
+/* this is box one */
+
+#box2{
+	height: 800px;
+	width: 400px;
+    padding: 5px;
+    border: 2px solid white;
+    margin: 25px;
+    position: absolute;
+}
+#box3{
+	height: 800px;
+	width: 400px;
+    padding: 5px;
+    border: 2px solid white;
+    margin: 25px;
+    position: absolute;
+    left: 450px;
+}
+#box4{
+	height: 800px;
+	width: 400px;
+    padding: 5px;
+    border: 2px solid white;
+    margin: 25px;
+    position: absolute;
+    left: 890px;
+}
+#box5{
+	height: 810px;
+	width: 2px;
+	background-color: white;
+    position: absolute;
+    left: 95px;
+    top: 35px;
+}
+#box6{
+	height: 810px;
+	width: 2px;
+	background-color: white;
+    position: absolute;
+    left: 153px;
+    top: 35px;
+}
+#box7{
+	height: 75px;
+	width: 2px;
+	background-color: white;
+    position: absolute;
+    left: 200px;
+    top: 35px;
+}
+#box8{
+	height: 810px;
+	width: 2px;
+	background-color: white;
+    position: absolute;
+    left: 250px;
+    top: 35px;
+}
+#box9{
+	height: 75px;
+	width: 2px;
+	background-color: white;
+    position: absolute;
+    left: 300px;
+    top: 35px;
+}
+#box10{
+	height: 810px;
+	width: 2px;
+	background-color: white;
+    position: absolute;
+    left: 350px;
+    top: 35px;
+}
+#box11{
+	height: 2px;
+	width: 315px;
+	background-color: white;
+    position: absolute;
+    left: 35px;
+    top: 110px;
+}
+#box12{
+    height: 2px;
+    width: 60px;
+    background-color: white;
+    position: absolute;
+    left: 35px;
+    top: 220px;
+}
+#box13{
+    height: 2px;
+    width: 410px;
+    background-color: white;
+    position: absolute;
+    left: 35px;
+    top: 340px;
+}
+#box14{
+    height: 2px;
+    width: 60px;
+    background-color: white;
+    position: absolute;
+    left: 35px;
+    top: 470px;
+}
+#box15{
+    height: 2px;
+    width: 410px;
+    background-color: white;
+    position: absolute;
+    left: 35px;
+    top: 600px;
+}
+#box16{
+    height: 2px;
+    width: 60px;
+    background-color: white;
+    position: absolute;
+    left: 35px;
+    top: 730px;
+}
+ /* this is the beggining of box two */
+
+ #box17{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 475px;
+    top: 170px;
+ }
+
+#box18{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 475px;
+    top: 370px;
+ }
+
+#box19{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 475px;
+    top: 620px;
+ }
+#box20{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 560px;
+    top: 35px;
+ }
+ #box21{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 650px;
+    top: 35px;
+ }
+#box22{
+    height: 135px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 605px;
+    top: 35px;
+ }
+ #box23{
+    height: 585px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 830px;
+    top: 35px;
+ }
+#box24{
+    height: 135px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 520px;
+    top: 35px;
+ }
+ #box25{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 710px;
+    top: 35px;
+ }
+#box26{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 775px;
+    top: 35px;
+ }
+#box27{
+    height: 2px;
+    width: 114px;
+    background-color: white;
+    position: absolute;
+    left: 775px;
+    top: 270px;
+ }
+#box28{
+    height: 2px;
+    width: 127px;
+    background-color: white;
+    position: absolute;
+    left: 650px;
+    top: 730px;
+ }
+#box29{
+    height: 250px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 600px;
+    top: 370px;
+ }
+
+/* this is box three */
+#box30{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 960px;
+    top: 35px;
+ }
+
+#box31{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1015px;
+    top: 35px;
+ }
+#box32{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1070px;
+    top: 35px;
+ }
+#box33{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1125px;
+    top: 35px;
+ }
+#box34{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1180px;
+    top: 35px;
+ }
+
+#box35{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1230px;
+    top: 35px;
+ }
+#box36{
+    height: 810px;
+    width: 2px;
+    background-color: white;
+    position: absolute;
+    left: 1275px;
+    top: 35px;
+ }
+#box37{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 915px;
+    top: 140px;
+ }
+#box38{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 915px;
+    top: 270px;
+ }
+ #box39{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 915px;
+    top: 390px;
+ }
+#box40{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 915px;
+    top: 510px;
+ } 
+#box41{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 915px;
+    top: 630px;
+ }
+
+#box42{
+    height: 2px;
+    width: 412px;
+    background-color: white;
+    position: absolute;
+    left: 915px;
+    top: 750px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
