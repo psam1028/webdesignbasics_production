@@ -1,26 +1,86 @@
-#side1{
+#side {
 	background-color:red;
-	width: 80px;
-	height: 320px;
+	width: 100px;
+	height: 300px;
 	float: left;
 	margin-right: 10px;
-	padding: 1%;
 }
-#center1{
+#center{
 	background-color: red;
 	margin-right: 10px;
 	margin-bottom: 10px;
 	width: 300px;
 	height: 100px;
 	float: left;
-	padding: 1%;
 }
-#side2{
+#center1{
 	background-color: red;
 	margin-right: 10px;
 	margin-bottom: 10px;
-	width: 80px;
-	height: 320px;
-	padding: 1%;
+	margin-top: 110px;
+	margin-left: -310px;
+	width: 145px;
+	height: 190px;
 	float: left;
+}
+
+#center2{
+	background-color: red;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 110px;
+	margin-left: -155px;
+	width: 145px;
+	height: 190px;
+	float: left;
+}
+
+#side1 {
+	background-color:red;
+	width: 100px;
+	height: 300px;
+	float: left;
+	margin-right: 10px;
+}
+
+#side2 {
+	background-color:red;
+	width: 100px;
+	height: 300px;
+	clear: left;
+	margin-right: 10px;
+}
+
+#center3{
+	background-color: red;
+	margin-left: 110px;
+	margin-top: -300px;
+	width: 145px;
+	height: 190px;
+	float: left;
+}
+
+#center4{
+	background-color: red;
+	width: 145px;
+	height: 190px;
+	margin-left: 265px;
+	margin-top: -300px;
+}
+
+#center5{
+	background-color: red;
+	width: 300px;
+	height: 100px;
+	float: left;
+	margin-left: 110px;
+	margin-top: -100px;
+}
+
+#side3 {
+	background-color:red;
+	width: 100px;
+	height: 300px;
+	margin-left: 420px;
+	margin-top: -190px;
 }

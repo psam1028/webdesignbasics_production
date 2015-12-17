@@ -1,0 +1,41 @@
+html{
+	background-color: #22b5ef;
+}
+h1{
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+	text-align: center;
+	font-family: Microsoft Sans Serif, Sans Serif, Tahoma;
+	font-size: 250%;
+	margin-top: 5%;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+}
+h3{
+	margin-right: auto;
+	margin-left: auto;
+	width: 40%;
+	text-align: center;
+	font-family: Microsoft Sans Serif, Sans Serif, Tahoma;
+	font-weight: bolder;
+}
+p{
+	margin-top: 2%;
+	width: 40%;
+	font-family: Tahoma, Helvetica; 
+	font-size: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgba(255,255,255,0.60);
+	padding: 2%;
+}
+img{
+	width: 30%;
+	height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}

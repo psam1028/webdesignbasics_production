@@ -1,18 +1,59 @@
 #header{
 	background-color: red;
-	width: 800px;
-	height: 200px;
-	margin-top: 30%;
-	margin-left: auto;
+	width: 600px;
+	height: 100px;
 	margin-right: auto;
+	margin-left: auto;
 	display: block;
-	position: static;
+	margin-bottom: 1%;
 }
+
 #menu{
 	background-color: red;
-	width: 50%;
-	height: 10%;
-	margin-left: auto;
+	width: 600px;
+	height: 50px;
 	margin-right: auto;
+	margin-left: auto;
 	display: block;
+	margin-bottom: 1%;
+}
+
+#content{
+	margin-right: auto;
+	margin-left: 327px;
+}
+
+#middle1{
+	background-color: red;
+	width: 193px;
+	height: 550px;
+	float: left;
+	margin: 5px;
+}
+
+#middle2{
+	background-color: red;
+	width: 193px;
+	height: 550px;
+	float: left;
+	margin: 5px;
+}
+
+#middle3{
+	background-color: red;
+	width: 193px;
+	height: 550px;
+	float: left;
+	margin: 5px;
+}
+
+#footer{
+	background-color: red;
+	width: 600px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	margin-bottom: 1%;
+	margin-top: 585px;
 }
