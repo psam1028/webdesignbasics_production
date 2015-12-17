@@ -1,0 +1,36 @@
+Exercise 13 : User Interaction
+
+http://le-mugs.com/
+
+	1. When the user orients the mouse on the web page, the foreground and background shift in perspective relative to where the mouse is placed.
+
+	2. When the user scrolls, they initiate an animated transition into the next webpage. The transition has to fully complete before the user can return to earlier pages and progress further.
+
+	3. There are some pages where when the user scrolls, they are directing a fluid animation through the webpage.
+
+
+http://outdatedbrowser.com/en
+
+	1. When the user hovers over one of the five columns designated to the most used browsers, the column expands in width 
+	
+	2. and the browser icon transitions from a white outline to its original colored form
+
+	3. and the column becomes illuminated as though by a theater light. 
+
+
+http://summer.tcm.com/day-2
+
+	1. At the bottom of the webpage is a navigation bar with numbers ranging from 1 to 31, when the user hover their mouse over a number, the number revolves in place similar to a  slot machine and becomes illuminated
+
+	2 Each number is assigned to an actor, when the user places their mouse over a number, another navigation bar above the bottommost one displays the respective actor's name.
+
+	3. When the user clicks on a number, the webpages progresses like a slide and displays a whole new display for the specific actor whose number was pressed.
+
+
+Mobile App
+
+	1. When the user holds their finger and moves it across the screen, the map travels in the direction opposite to the finger's movement.
+
+	2. When the user double clicks on the screen, the map zooms in incrementally to where the user is touching.
+
+	3. When the user clicks the button with compass symbol, the map travels to the users location.
