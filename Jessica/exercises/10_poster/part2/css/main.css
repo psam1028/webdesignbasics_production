@@ -19,6 +19,13 @@ div{
 	width: 100px;
 }
 
+.sma :hover {
+	transition-timing-function: ease-out;
+	transition-duration: 0.3s;
+	transition-delay: 0.2s;
+	color: white;
+}
+
 h1{
 	font-size: 150px;
 	font-family: Arial, sans-serif;
